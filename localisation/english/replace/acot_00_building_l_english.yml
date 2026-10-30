@@ -24,7 +24,7 @@ tech_acot_colonize_fractured_desc: "Although the surface of these fractured worl
 tech_acot_colonize_fractured_effect: "Enables colonization of §EFractured Worlds§!"
  
 tech_acot_colonize_fractured_ae: "Twilight Soils"
-tech_acot_colonize_fractured_ae_desc: "While the nature of the Ultra Fractured Worlds are not too dissimilar to that of its cousin, the rift at the epicenter of the celestial body gives off too much harzadous radiation and contamination for even the best shields and armor. But so long as the rift is not completely unstable, it should still be doable to stabalize its effect. The success of this project will also enable us to create more efficient and powerful districts on the fractured world."
+tech_acot_colonize_fractured_ae_desc: "While the nature of the Ultra Fractured Worlds are not too dissimilar to that of its cousin, the rift at the epicenter of the celestial body gives off too much hazardous radiation and contamination for even the best shields and armor. But so long as the rift is not completely unstable, it should still be doable to stabilize its effect. The success of this project will also enable us to create more efficient and powerful districts on the fractured world."
 tech_acot_colonize_fractured_ae_effect: "Upgrades §EFractured Worlds§!'s districts and enables a project to turn §BUltrafractured Worlds§! back into §EFractured Worlds§!. "
  
 ################################################ DECISIONS ########################
@@ -128,13 +128,13 @@ requires_building_fe_capital_hive: "§RTo further improve upon this building, an
 ######################## CAPITALOS ########################
  
 building_acot_dm_ancient_palace: "Enigmatic Palace"
-building_acot_dm_ancient_palace_desc: "A new era calls for a new seat of power. Tne Empire must be reborn anew."
+building_acot_dm_ancient_palace_desc: "A new era calls for a new seat of power. The Empire must be reborn anew."
  
 building_acot_ae_ancient_palace: "Void Palace"
 building_acot_ae_ancient_palace_desc: "The seat and throne of the New Galactic Order, The Void Palace is the mark of absolute power. From this throne shall it's rulers dictate the very fate of the galaxy."
  
 tech_acot_dm_ancient_palace: "Enigmatic Construction Schematics"
-tech_acot_dm_ancient_palace_desc: "Now that we have begun to grapse the secrets of the Enigma, it is time we discard the mundane and outdated constructs of old. From now on we will challenge the galaxy, the dawn of a new age is upon us!\n\n§HUnlocks the ability to transform the capital building into Enigmatic Capital via Planetary Decision!§!"
+tech_acot_dm_ancient_palace_desc: "Now that we have begun to grasp the secrets of the Enigma, it is time we discard the mundane and outdated constructs of old. From now on we will challenge the galaxy, the dawn of a new age is upon us!\n\n§HUnlocks the ability to transform the capital building into Enigmatic Capital via Planetary Decision!§!"
  
 tech_acot_ae_ancient_palace: "The New Galactic Order"
 tech_acot_ae_ancient_palace_desc: "A New Order is at hand, our power is undeniable, and our knowledge is vast. The time has come for the empire to obtain absolute power. We are the one, we are the future. We are...Alpha."
@@ -142,7 +142,7 @@ tech_acot_ae_ancient_palace_desc: "A New Order is at hand, our power is undeniab
 #############################
  
 building_acot_dm_ancient_control_center: "Enigmatic Nexus"
-building_acot_dm_ancient_control_center_desc: "A new era calls for a new focal of power. Tne Consensus must be reforged anew."
+building_acot_dm_ancient_control_center_desc: "A new era calls for a new focal of power. The Consensus must be reforged anew."
  
 building_acot_ae_ancient_control_center: "Void Nexus"
 building_acot_ae_ancient_control_center_desc: "From this nexus, billions of artificial intelligence networks intertwine together, and the overlord of the system decides what next in the machine's destiny lie ahead."
@@ -156,7 +156,7 @@ tech_acot_ae_ancient_control_center_desc: "The age of organic supremacy has expi
 #############################
  
 building_acot_dm_ancient_hive_cluster: "Enigmatic Cluster"
-building_acot_dm_ancient_hive_cluster_desc: "A new era calls for a new root of power. Tne Hive must expand anew."
+building_acot_dm_ancient_hive_cluster_desc: "A new era calls for a new root of power. The Hive must expand anew."
  
 building_acot_ae_ancient_hive_cluster: "Void Cluster"
 building_acot_ae_ancient_hive_cluster_desc: "This enormous hive cluster is filled with billions of drones, all busy working to ensure the sovereignty of the Hive. Those who adapt thrive, those that do not wither and die."
@@ -224,7 +224,7 @@ tech_acot_ae_super_assembly_desc: "Increasing demands for machine workforce requ
 ############################# BIO #############################
  
 building_acot_dm_clone_vats: "Bio-Genetic Lab" 
-building_acot_dm_clone_vats_desc: "This ominous-looking lab houses the secrets of evolutions. It is here that all kind of biological experiments are undetaken, all risks be damned." 
+building_acot_dm_clone_vats_desc: "This ominous-looking lab houses the secrets of evolutions. It is here that all kind of biological experiments are undertaken, all risks be damned." 
  
 building_acot_ae_clone_vats: "Moebius Research Complex"
 building_acot_ae_clone_vats_desc: "This Moebius Foundation's Officer is authorized by the New World Order to conduct all types of biological experiments with all questions of moralities being carefully discarded as necessary, for the future of the empire is priority to any secondary objectives."
@@ -266,10 +266,10 @@ tech_acot_ae_psi_altar_desc: "A rogue sect of Curators, known as the Alarak Cult
 ############################# MACHINA #############################
  
 building_acot_dm_machine_dome: "Personality Uplink"
-building_acot_dm_machine_dome_desc: "Specialized personality-data matrix that provides the planets with useful upgrades as well as supporting drones. The Uplink amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 5000 pop, efficiency is increased by 5% up to 25% at 20000 pop."
+building_acot_dm_machine_dome_desc: "Specialized personality-data matrix that provides the planets with useful upgrades as well as supporting drones. The Uplink amplifies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 5000 pop, efficiency is increased by 5% up to 25% at 20000 pop."
  
 building_acot_ae_machine_dome: "Infinity Core"
-building_acot_ae_machine_dome_desc: "A joint effort by Cortex Unit of the Curator to create a better future for the machines. The Infinity Core represents the infinite consensus of the Machine God. The Core amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 2500 pop, efficiency is increased by 5% up to 50% at 20000 pop."
+building_acot_ae_machine_dome_desc: "A joint effort by Cortex Unit of the Curator to create a better future for the machines. The Infinity Core represents the infinite consensus of the Machine God. The Core amplifies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 2500 pop, efficiency is increased by 5% up to 50% at 20000 pop."
  
 tech_acot_dm_machine_dome: "Personality Module"
 tech_acot_dm_machine_dome_desc: "Based on the study of ancient machines, a specialized preservation of certain personality modules of various individuals, both organic and synthetic can be preserved and installed upon selected groups of machine units. The result is a noticeable net increase in productivity of these "personified" units without creating a rift in the Consensus's Unity as a whole. This technology should be replicated or adapted for our own use."
@@ -348,7 +348,7 @@ building_acot_ae_district_amplifier: "Alpha Resource Purifier"
 building_acot_ae_district_amplifier_desc: "Must be nice to be able to work the same shift but gets even more than usual. The best part is that the workers don't get paid less for doing less work, right? RIGHT?"
 
 tech_acot_dm_district_amplifier: "Production Re-Revolution"
-tech_acot_dm_district_amplifier_desc: "Though we have made many new wonderous inventions that enable us to efficently procure resources in ways we never thought possible, the complex procedures demand educated and specialized people. This leaves the working class and jobs a void which has yet to be filled. With some reexamination of the tools we have, and what we could improve using new enigmatic tech, we may be able to carry those who were left behind into the new future."
+tech_acot_dm_district_amplifier_desc: "Though we have made many new wonderous inventions that enable us to efficiently procure resources in ways we never thought possible, the complex procedures demand educated and specialized people. This leaves the working class and jobs a void which has yet to be filled. With some reexamination of the tools we have, and what we could improve using new enigmatic tech, we may be able to carry those who were left behind into the new future."
  
 tech_acot_ae_district_amplifier: "Alpha Resource Processor"
 tech_acot_ae_district_amplifier_desc: "Further improvement to the Prcessor Complex can be made now that we comprehend more about the ancient knowledge. This should provide our workers with even better tools and more space to work their magic."
@@ -356,7 +356,7 @@ tech_acot_ae_district_amplifier_desc: "Further improvement to the Prcessor Compl
 #############################
  
 building_acot_dm_alloygood_amplifier: "Super Factorium"
-building_acot_dm_alloygood_amplifier_desc: "Each material going through this specialized facility must be throughly checked for any flaws, after which they must be refined further, and further, until it is loaded to the stock."
+building_acot_dm_alloygood_amplifier_desc: "Each material going through this specialized facility must be thoroughly checked for any flaws, after which they must be refined further, and further, until it is loaded to the stock."
 
 building_acot_ae_alloygood_amplifier: "Mega Factorium"
 building_acot_ae_alloygood_amplifier_desc: "Each alloy must shine like the star, each goods must be so goods they may as well be called Consumer Bests."
@@ -473,7 +473,7 @@ tech_acot_dm_dark_matter_synthersizer: "Black Hole Synthesizing"
 tech_acot_dm_dark_matter_synthersizer_desc: "We now have a reliable technology to potentially create a sub-dimensional portal gateway where vast amounts of enigmatic resources can be harvested. This will allow us to extract both dark matter and dark energy in abundances. The building is automated, but the maintenance upkeep is quite high however."
  
 tech_acot_ae_dark_matter_synthersizer: "The Four Pillars of Darkness"
-tech_acot_ae_dark_matter_synthersizer_desc: "Based upon the same principle as the dimensional fabricator, the Dark Portal Nexus; held steady by four dark energy pillars, can extract huge amounts of dark matter and dark energy from other dimensions. The process, while complicated, is much safetier and thus takes less toll upon our maintenance bills."
+tech_acot_ae_dark_matter_synthersizer_desc: "Based upon the same principle as the dimensional fabricator, the Dark Portal Nexus; held steady by four dark energy pillars, can extract huge amounts of dark matter and dark energy from other dimensions. The process, while complicated, is much safer and thus takes less toll upon our maintenance bills."
  
 tech_mine_dark_energy: "Dark Energy Drawing"
 tech_mine_dark_energy_desc: "Basic understanding of its nature will allow us to extract dark matter out of natural black holes without getting torn into holes ourselves."
@@ -620,7 +620,7 @@ tech_acot_giga_fortress_desc: "Powered by the enigmatic dark energy reactor, Gig
 mod_country_resource_max_consumer_goods_add: "Max Consumer Goods Add"
 
 building_acot_dm_mansion: "Deluxe Mansion"
-building_acot_dm_mansion_desc: "Though simple in design, the D-2 Deluxe Mansion provide elegent and refined living quarters for the people. It is also here where the meme lords provide recreational services."
+building_acot_dm_mansion_desc: "Though simple in design, the D-2 Deluxe Mansion provide elegant and refined living quarters for the people. It is also here where the meme lords provide recreational services."
  
 building_acot_ae_mansion: "Enigmatic Penthouse"
 building_acot_ae_mansion_desc: "From this massive, towering mansion, even the poorest of the poor will live the life filled with quality and style."
@@ -665,7 +665,7 @@ building_acot_dm_hive_depot: "Hive Spire"
 building_acot_dm_hive_depot_desc: "Infused with Dark Energy, the Spire is capable of constantly maintaining ceremonial progressions of the Hive. The Meme Harvesters are also stationed here to meme the divided."
  
 building_acot_ae_hive_depot: "Greater Hive Spire" 
-building_acot_ae_hive_depot_desc: "Further evolved with massive exo-skeltons, the Greater Spire allows even more room to spawn new drones."
+building_acot_ae_hive_depot_desc: "Further evolved with massive exo-skeletons, the Greater Spire allows even more room to spawn new drones."
  
 tech_acot_dm_hive_depot: "Sequence Library"
 tech_acot_dm_hive_depot_desc: "Through the application of Dark Energy, the Hive will grow further and further by spinning sequences stored within the now expanded genetic libraries."
@@ -816,7 +816,7 @@ tech_fe_war_factory: "Precursor Combat Code Adaptations"
 tech_fe_war_factory_desc: "While our current combat codes for our invasion units are already quite efficient, they pale in comparison to the one utilized by the precursor's war machines. <Recommendation> Analyze and acquire the precursor's combat data."
  
 tech_infinity_engine: "Infinity Calculation"
-tech_infinity_engine_desc: "With the updated codes acquired from the precurosors, organic probability calculations are now trivial tasks. We will achieve total control of their economy. We will reach infinity."
+tech_infinity_engine_desc: "With the updated codes acquired from the precursors, organic probability calculations are now trivial tasks. We will achieve total control of their economy. We will reach infinity."
  
 tech_fe_communication_nexus: "Dark Energy Distribution"
 tech_fe_communication_nexus_desc: "We have already begun installing dark matter cores into our machine units, but we have discovered that we can convert dark energies into invisible form that encompasses the surface's air. Estimated projection dictates this will improve the processing powers of all working units."

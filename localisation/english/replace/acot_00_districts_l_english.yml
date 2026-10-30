@@ -33,7 +33,7 @@ col_acot_knowledge_is_power_desc: "Specializes in scientific research and resear
 col_acot_knowledge_is_power_tt: "This world is directing enigmatic power into increasing its capabilities to support scientific research."
 
 col_acot_fortress: "§EEnigmatic Fortress World§!"
-col_acot_fortress_desc: "Specializes in army augmentations and plaentary defenses."
+col_acot_fortress_desc: "Specializes in army augmentations and planetary defenses."
 col_acot_fortress_tt: "This world is designed as immortal bastion, capable of resisting the deadliest of enemy attacks."
 
 #### WORLD ######
@@ -46,11 +46,11 @@ acot_cracked_fractured_desc: "What was once a beautiful world has been fractured
 
 pc_acot_void_star: "Void Star"
 pc_acot_void_star_adj: "Void Star"
-pc_acot_void_star_desc: "A Star that has been enfused with the chaotic energies dark energies of the greatest weapons ever deployed in the galaxy."
+pc_acot_void_star_desc: "A Star that has been infused with the chaotic energies dark energies of the greatest weapons ever deployed in the galaxy."
 
 pc_acot_void_hole: "§BVoid Hollow§!"
 pc_acot_void_hole_adj: "§BVoid Hollow§!"
-pc_acot_void_hole_desc: "Whatever this is, what ungodly horror we made with our power is beyond any doubt bone chilling. Fallen Empires look away in fear, plebs wet themselves at the sight of this once beautiful thing turned into this monsterous sight. For what we have created is truly some terrible. terrible shit."
+pc_acot_void_hole_desc: "Whatever this is, what ungodly horror we made with our power is beyond any doubt bone chilling. Fallen Empires look away in fear, plebs wet themselves at the sight of this once beautiful thing turned into this monstrous sight. For what we have created is truly some terrible. terrible shit."
 
 pc_dark_fractured: "Fractured World"
 pc_dark_fractured_adj: "Fractured World"
@@ -68,7 +68,7 @@ pc_dark_fractured_ae_unstable_desc: "Fractured Worlds are covered by violent sto
 
 pc_acot_enigmatic: "Enigmatic World"
 pc_acot_enigmatic_adj: "Enigmatic World"
-pc_acot_enigmatic_desc: "Enigmatic Worlds are covered by deadly, but stable storms that while harzardous, also protects the planet from various bombardment. Though much of the planets are now safe to navaigate, the planet remains deadly to most lifeforms without protection."
+pc_acot_enigmatic_desc: "Enigmatic Worlds are covered by deadly, but stable storms that while hazardous, also protects the planet from various bombardment. Though much of the planets are now safe to navigate, the planet remains deadly to most lifeforms without protection."
  
 pc_acot_enigmopolis: "Void Sphere"
 pc_acot_enigmopolis_adj: "Void Sphere"

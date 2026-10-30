@@ -91,7 +91,7 @@ mod_job_acot_robodrone_add: "$job_acot_robodrone$"
  
 job_acot_workerman: "Super Foreman"
 job_acot_workerman_plural: "Super Foremen"
-job_acot_workerman_desc: "Passionate bosses who teaches the working classes the ways of the minerals, food and energy. Within weeks, even the lazinest and weakest members of society can be metamorphed into true chads."
+job_acot_workerman_desc: "Passionate bosses who teaches the working classes the ways of the minerals, food and energy. Within weeks, even the laziest and weakest members of society can be metamorphed into true chads."
 mod_job_acot_workerman_add: "$job_acot_workerman$"
  
 job_acot_workerdrone: "Super Task Manager"
@@ -101,7 +101,7 @@ mod_job_acot_workerdrone_add: "$job_acot_workerdrone$"
 
 job_acot_specialman: "Factorium Overseer"
 job_acot_specialman_plural: "Factorium Overseers"
-job_acot_specialman_desc: "Overseers of the Factoriums tend to be rather joyish individual, often speaking out in great exaggeration about the greatness of the manufacuturing works, in spite of the more advanced methods and careers available to the empire. Yet these colorful personality does inspire those who are stuck in the old worlds to work better for the betterment of the society."
+job_acot_specialman_desc: "Overseers of the Factoriums tend to be rather joyish individual, often speaking out in great exaggeration about the greatness of the manufacturing works, in spite of the more advanced methods and careers available to the empire. Yet these colorful personality does inspire those who are stuck in the old worlds to work better for the betterment of the society."
 mod_job_acot_specialman_add: "$job_acot_specialman$"
  
 job_acot_specialdrone: "Factorium Beholder"
@@ -171,7 +171,7 @@ mod_job_acot_artisan_drone_add: "$job_acot_artisan_drone$"
 
 job_acot_trader: "Master Logistician"
 job_acot_trader_plural: "Master Logisticians"
-job_acot_trader_desc: "Experts in the fields of trading and logistics. Aspiring traders ready to make their names through skillfull management of the empire's various logistic positions, sanctioned to do what must be done to maintain prosperity."
+job_acot_trader_desc: "Experts in the fields of trading and logistics. Aspiring traders ready to make their names through skillful management of the empire's various logistic positions, sanctioned to do what must be done to maintain prosperity."
 mod_job_acot_trader_add: "$job_acot_trader$"
 
 job_acot_trader_drone: "Autonomous Trader Unit"
@@ -295,7 +295,7 @@ mod_job_acot_soldier_add: "$job_acot_soldier$"
  
 job_acot_soldier_drone: "Ultra Helldiver"
 job_acot_soldier_drone_plural: "Ultra Helldivers"
-job_acot_soldier_drone_desc: "Ultra Helldivers are specialized drones engineered to spread the will of the collective and preserve the Overlord's will across the stars. They are particularly zealous in exploding those who dares to bring the chaos of individisualism and democracy by causing them to repeatedly detonate."
+job_acot_soldier_drone_desc: "Ultra Helldivers are specialized drones engineered to spread the will of the collective and preserve the Overlord's will across the stars. They are particularly zealous in exploding those who dares to bring the chaos of individualism and democracy by causing them to repeatedly detonate."
 mod_job_acot_soldier_drone_add: "$job_acot_soldier_drone$"
 
 job_acot_giga_fortress_operator: "Giga Fortress Cannon Operator"
@@ -365,7 +365,7 @@ mod_job_acot_dimesiona_traveler_drone_add: "$job_acot_dimesiona_traveler_drone$"
  
  
 tech_go_find_work: "The Greater Good"
-tech_go_find_work_desc: "In the enlightend society, everyone is taught that there is always something to strife forward, even if they do not line up with your prior skills or professions. Productivity is encouraged, for everything is done for the betterment of the empire."
+tech_go_find_work_desc: "In the enlightened society, everyone is taught that there is always something to strife forward, even if they do not line up with your prior skills or professions. Productivity is encouraged, for everything is done for the betterment of the empire."
 
 job_acot_free_foodman: "Adventurer"
 job_acot_free_foodman_plural: "Adventurers"
@@ -416,7 +416,7 @@ acot_modifier_free_stasis_desc: "This planet has a network of stasis chambers, w
 
 decision_ungive_job: "Unenmployment Initiation"
 decision_ungive_job_desc: "It is time for our population to be plagued by unemployment again."
-decision_ungive_job_effect: "Jobless pops will be considered unemployed and start plaguing our soctieties once again."
+decision_ungive_job_effect: "Jobless pops will be considered unemployed and start plaguing our societies once again."
 
 acot_modifier_initializer_cooldown: "Recently Changed Size"
 acot_modifier_initializer_cooldown_desc: "This planet has been adjusted recently by $precursor_colonizer$. Its size cannot be adjust in the near future."
@@ -432,14 +432,14 @@ mod_job_acot_fe_artisan_add: "$job_acot_fe_artisan$"
 
 job_acot_fe_farmer: "Connoisseur"
 job_acot_fe_farmer_plural: "Connoisseurs"
-job_acot_fe_farmer_desc: "Though not technically an expert despite the name suggests, these brave folks have develop resilent tongues that allow them to survive many acquired tastes that tends to get requested by the masses. The end results is that they tend to increase the amount of actually usable food, even if not much."
+job_acot_fe_farmer_desc: "Though not technically an expert despite the name suggests, these brave folks have develop resilient tongues that allow them to survive many acquired tastes that tends to get requested by the masses. The end results is that they tend to increase the amount of actually usable food, even if not much."
 mod_job_acot_fe_farmer_add: "$job_acot_fe_farmer$"
 
 ##########
 
 job_acot_fe_generator: "Singularity Professional"
 job_acot_fe_generator_plural: "Singularity Professionals"
-job_acot_fe_generator_desc: "Under normal circumstances, Singularity Fields should never be tampered with as there's a risk of containment field breakdown and system failure. However, in rare cases, some highly trained profressionals may be assigned to make some adjustments. While there're rumors circulating the risks involved, it is clear these brave people do not need to hear all these, for they are after all, highly trained professionals."
+job_acot_fe_generator_desc: "Under normal circumstances, Singularity Fields should never be tampered with as there's a risk of containment field breakdown and system failure. However, in rare cases, some highly trained professionals may be assigned to make some adjustments. While there're rumors circulating the risks involved, it is clear these brave people do not need to hear all these, for they are after all, highly trained professionals."
 mod_job_acot_fe_generator_add: "$job_acot_fe_generator$"
 
 ##########
@@ -494,7 +494,7 @@ mod_job_acot_fe_entertainer_add: "$job_acot_fe_entertainer$"
 
 job_acot_fe_acolyte_entertainer: "Acolyte of the Whip"
 job_acot_fe_acolyte_entertainer_plural: "Acolytes of the Whips"
-job_acot_fe_acolyte_entertainer_desc: "Though the whips held by Beastmaster Vatikon are now a thing of the past with the discovery of machine, he saved many of his peers by dedicating the craft to that of entertainment instead, for indeed only they could coerc the lesser animals to perform the tasks above their mundane stations."
+job_acot_fe_acolyte_entertainer_desc: "Though the whips held by Beastmaster Vatikon are now a thing of the past with the discovery of machine, he saved many of his peers by dedicating the craft to that of entertainment instead, for indeed only they could coerce the lesser animals to perform the tasks above their mundane stations."
 mod_job_acot_fe_acolyte_entertainer_add: "$job_acot_fe_acolyte_entertainer$"
 
 ##########
@@ -506,7 +506,7 @@ mod_job_acot_fe_researcher_add: "$job_acot_fe_researcher$"
 
 job_acot_fe_acolyte_researcher: "Acolyte of the Scrolls"
 job_acot_fe_acolyte_researcher_plural: "Acolytes of the Scrolls"
-job_acot_fe_acolyte_researcher_desc: "There was a time when our entire architecture and society was held by chaotic and unlearned methods of study and balance. Only when Velarozun the Math-Mage brought the arcane study of mathermatics did we learn to value the powers and knowledges that these scrolls could contain."
+job_acot_fe_acolyte_researcher_desc: "There was a time when our entire architecture and society was held by chaotic and unlearned methods of study and balance. Only when Velarozun the Math-Mage brought the arcane study of mathematics did we learn to value the powers and knowledges that these scrolls could contain."
 mod_job_acot_fe_acolyte_researcher_add: "$job_acot_fe_acolyte_researcher$"
 
 ##########

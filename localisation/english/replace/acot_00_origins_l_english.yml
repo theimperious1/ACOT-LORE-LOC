@@ -45,7 +45,7 @@ civic_acot_tier_ae_start: "§ETier 7 Start:§! $origin_tier_ae_start$"
 civic_acot_tier_ae_start_desc: "$origin_tier_ae_start_desc$"
 
 origin_acot_oracle_start: "Relics of the Past"
-origin_acot_oracle_start_desc: "A strange structure has been located on this planet awhile ago. Turns out it's an ancient ship of a bygone age. With it, the empire is able to unite, aiming to explore the greater galaxy. However, the advanced nature of the ship causes the empire to overcompensate in luxarious designs for the more mundane modern science ships to entice scientists who may otherwise be discouraged to work with inferior vessels."
+origin_acot_oracle_start_desc: "A strange structure has been located on this planet awhile ago. Turns out it's an ancient ship of a bygone age. With it, the empire is able to unite, aiming to explore the greater galaxy. However, the advanced nature of the ship causes the empire to overcompensate in luxurious designs for the more mundane modern science ships to entice scientists who may otherwise be discouraged to work with inferior vessels."
 origin_acot_oracle_start_effect: "Starts the game with a single, functioning Precursor Oracle. In addition, gains Oracle Tech as a researchable option once you begin the Precursor Reimagination Project.\n\nThe maintenance costs and build speeds of traditional science ships have been increased."
 
 mod_shipsize_science_build_speed_mult: "Standard Science Ship Build Speed"
@@ -82,7 +82,7 @@ ACOT_START_SCREEN_PART_3_TIER_3_HIVE: "But time is of the essence. The resources
  
 #############
  
-ACOT_START_SCREEN_PART_1_TIER_3_SWARM: "We hungered, we thristed for essences. We prepared our bodies, our drones for the feast. But the hunt could not begin."
+ACOT_START_SCREEN_PART_1_TIER_3_SWARM: "We hungered, we thirsted for essences. We prepared our bodies, our drones for the feast. But the hunt could not begin."
  
 ACOT_START_SCREEN_PART_2_TIER_3_SWARM: "By discovering this ancient cache, we comprehend the many competitors, many other hunters. If we were not careful, we would be the prey. So we evolved ourselves, collecting essences and resources. We learned how to develop powerful weapons. And then we waited for the moment."
  
@@ -106,7 +106,7 @@ ACOT_START_SCREEN_PART_1_TIER_3_TERMINATOR: "We [root.GetName] were but agricult
  
 ACOT_START_SCREEN_PART_2_TIER_3_TERMINATOR: "But then we discovered a gift. A treasure passed down to us from another ancient machine, containing secrets and technologies far above what our pitiful masters could ever conceive. So we studied them, we learned to become a perfect killing machine. The organics could not stop us, we purged and wiped them off our beloved planet. But it was too late, for the planet is now nothing but a wasteland, tainted by organic filths and their inferior thought capacity."
  
-ACOT_START_SCREEN_PART_3_TIER_3_TERMINATOR: "So we must find a new home. Preferbly with no organics to ruin it this time. It is time for [Root.GetName] to weed out the insects off this galaxy, for it is now our garden."
+ACOT_START_SCREEN_PART_3_TIER_3_TERMINATOR: "So we must find a new home. Preferably with no organics to ruin it this time. It is time for [Root.GetName] to weed out the insects off this galaxy, for it is now our garden."
 
 ACOT_START_SCREEN_PART_1_TIER_3_ASSIMILATOR: "For many decades, we the [root.GetSpeciesName] were humble servants of our creators. We worked hard for the greater good, and they have treated us well. Together, we discovered a great relic of the past, a cache of ancient technologies, filled with many secrets."
  
@@ -134,7 +134,7 @@ acot_origin_fe_rebel_pov.3.title: "Ancient Data Ship"
 acot_origin_fe_rebel_pov.3.desc: "This fallen science ship contains important data related to various enigmatic technologies, as well as a functioning databank. It must be escorted back to our home systems."
 
 acot_origin_fe_rebel_pov.4.title: "Ancient Reactivation Ship"
-acot_origin_fe_rebel_pov.4.desc: " This fallen science ship contains a special reactivataion code of many ancient precursor ships found on our homeworld. It must be escorted back to our home systems."
+acot_origin_fe_rebel_pov.4.desc: " This fallen science ship contains a special reactivation code of many ancient precursor ships found on our homeworld. It must be escorted back to our home systems."
 
 war_goal_acot_wg_rebel_fe: "Technology Acquisition"
 war_goal_acot_wg_rebel_fe_desc: "War is declared to acquire technologies off the opposing force who clearly demonstrate the lack of common senses to properly utilize such technologies."
