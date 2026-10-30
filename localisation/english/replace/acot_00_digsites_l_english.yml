@@ -89,7 +89,7 @@ acot_digsite_events.5.b.1: "It's better than nothing."
  
 acot_digsite_events.5.c.desc: "§YGood Effort Yet Not Suffice§!\n\nThe power source we provided was strong enough to power most of the vault's systems, lights and computers are coming online. The team is pleased to know that they will be able to at least access most areas with automated doors instead of prying them open with meta-crowbars again and again. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it.\n\nUnfortunately, the power source was not powerful enough to access every section. And the terminal indicates the system will go into lockdown if unscheduled visitors enter the restricted areas for far too long, which will prevent us from accessing other sections of the vault.\n\nThe Zero Point Reactor allows us to access one of the three main chambers, we must pick carefully."
 acot_digsite_events.5.c.1: "Access P-ESC Chamber"
-acot_digsite_events.5.c.1.explain: "The team has been ordered to access P-ESC Chamber, unfortunately this means that the other two chambers will no longer be availiable."
+acot_digsite_events.5.c.1.explain: "The team has been ordered to access P-ESC Chamber, unfortunately this means that the other two chambers will no longer be available."
 acot_digsite_events.5.c.2: "Access P-BCS Chamber"
 acot_digsite_events.5.c.2.explain: "The team has selected to access P-BCS Chamber, unfortunately this means that the other two chambers will no longer be available."
 acot_digsite_events.5.c.3: "Access P-HPR Chamber"
