@@ -200,7 +200,7 @@ acot_forge_fleet_in_orbit_spirit_desc: "These soulless machines pretend to be th
 ############ SIGMA WEAPON  #######################
 
 ACOT_PERDITION_BEAM_SE_BOSS: "360 No-Scope Light of Destruction"
-ACOT_PERDITION_BEAM_SE_BOSS_DESC: "Not too dissimilar from the energy weapon utilized by Stellarite Devouver, Light of Destruction fires a deadly beam of Stellarite Energy. The much more refined reactors, amplifiers and energy lens make the weapon much superior to the one utilized by the beast, thanks to our superior technological designs."
+ACOT_PERDITION_BEAM_SE_BOSS_DESC: "Not too dissimilar from the energy weapon utilized by Stellarite Devourer, Light of Destruction fires a deadly beam of Stellarite Energy. The much more refined reactors, amplifiers and energy lens make the weapon much superior to the one utilized by the beast, thanks to our superior technological designs."
 
 ACOT_ARC_EMITTER_SE_BOSS: "360 No-Scope Stellarite Energy Discharger"
 ACOT_ARC_EMITTER_SE_BOSS_DESC: "This new generation emitter utilizes a new design based on stellarite technology. The concept remains largely the same however, a weapon capable of discharging powerful energy that bypasses shields and armors."

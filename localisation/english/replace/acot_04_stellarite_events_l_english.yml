@@ -3,14 +3,14 @@ l_english:
  
 stellarite_events.1.name: "Power Beyond Stars"
 stellarite_events.1.desc.a: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered a new type of energy signature after spending a period of time scanning the energy signature with our advanced sensors. This power bears resemblance to the solar energy, but is much more subtle.\n\nWe cannot yet verify the truth of this claim, as this seems to be related to solar power...which we have known even before our empires are capable of space-travel."
-stellarite_events.1.desc.b: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered more of the stellarite energy signatures we previously studied from the Stellarite Devouver we defeated. The energy is faint and hard to track down, but seems to be a lot more pure than the ones found on the Devouver."
-stellarite_events.1.desc.c: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered more of the stellarite energy signatures we previously studied from the Stellarite Devouver we defeated. The energy is faint and hard to track down, but seems to be a lot more pure than the ones found on the Devouver."
+stellarite_events.1.desc.b: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered more of the stellarite energy signatures we previously studied from the Stellarite Devourer we defeated. The energy is faint and hard to track down, but seems to be a lot more pure than the ones found on the Devourer."
+stellarite_events.1.desc.c: "We have an interesting situation. Apparently, some of our scientists claimed to have discovered more of the stellarite energy signatures we previously studied from the Stellarite Devourer we defeated. The energy is faint and hard to track down, but seems to be a lot more pure than the ones found on the Devourer."
 stellarite_events.1.a: "Perhaps SOPHIA can tell us more."
 stellarite_events.1.b: "Now's not the time to be experimenting."
  
 stellarite_events.100.name: "Precursor Databank"
 stellarite_events.100.desc.a: "Interesting...that the shard's remains could reach all the way here...\n\nSorry, was just thinking out loud. Your scientist's presumptions are correct, the energy signatures you detected are related to solar power, but its far more powerful, far more divine. What you see is but a flicker remains of its once glorious existence. The shards of the First Star, the power of Stellarite. Gotta admit though, I did not expect your scientists to actually be able to trace its signature all the way here.\n\nIf you are interested in this power, then I can teach it to you...after I managed to find a way to do it in a family-friendly manner..."
-stellarite_events.100.desc.b: "Interesting...that the shard's remains could reach all the way here...Of course! The Devouver! I somehow missed that details entirely!\n\nSorry, was just thinking out loud. Your scientist's presumptions are correct, the energy signatures you detected are related to solar power, but its far more powerful, far more divine. What you see is but a flicker remains of its once glorious existence. The shards of the First Star, the power of Stellarite. The same power that manifested in the Devouver you defeated previously.\n\nIf you are interested in this power, then I can teach it to you...after I managed to find a way to do it in a family-friendly manner..."
+stellarite_events.100.desc.b: "Interesting...that the shard's remains could reach all the way here...Of course! The Devourer! I somehow missed that details entirely!\n\nSorry, was just thinking out loud. Your scientist's presumptions are correct, the energy signatures you detected are related to solar power, but its far more powerful, far more divine. What you see is but a flicker remains of its once glorious existence. The shards of the First Star, the power of Stellarite. The same power that manifested in the Devourer you defeated previously.\n\nIf you are interested in this power, then I can teach it to you...after I managed to find a way to do it in a family-friendly manner..."
 stellarite_events.100.desc.c: "Ah, nice of you to finally notice it too. Yes, you're picking up a new type of power source, Stellarite Power, shards of the First Star. One of the empires in this galaxy have already managed to resaturate its radiance back into the cosmos, so now you're feeling its presence.\n\nIf you're interested, I'll make the proper arrangements to forward the necessary data for you to acquire it."
 stellarite_events.100.desc.d: "This topic again? I thought you did not have any interest in it, did you change your mind somehow?"
 stellarite_events.100.a: "What's this First Star?"
@@ -226,11 +226,11 @@ ACOT_MONSTER_BOMB_STELLARITE_SMALL_DESC: "§HUnstable Stellar Discharge§!"
 ACOT_MONSTER_BOMB_STELLARITE_LARGE: "§HStellar Discharge§!"
 ACOT_MONSTER_BOMB_STELLARITE_Large_DESC: "§HStellar Discharge§!"
 
-acot_large_stellarite: "§HGiga-Stellarite Devouver§!"
-acot_large_stellarite_plural: "§HGiga-Stellarite Devouvers§!"
-acot_large_stellarite_desc: "§HGiga-Stellarite Devouvers§!"
+acot_large_stellarite: "§HGiga-Stellarite Devourer§!"
+acot_large_stellarite_plural: "§HGiga-Stellarite Devourers§!"
+acot_large_stellarite_desc: "§HGiga-Stellarite Devourers§!"
 
-acot_large_stellarite_key: "§HGiga-Stellarite Devouver§!"
+acot_large_stellarite_key: "§HGiga-Stellarite Devourer§!"
 
 acot_dragon_stellarite: "§HStellarwrynm§!"
 acot_dragon_stellarite_plural: "§HStellarwrynm§!"

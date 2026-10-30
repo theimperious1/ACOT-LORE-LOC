@@ -610,7 +610,7 @@ building_acot_giga_fortress_obelisk_desc: "The installed Obelisk of Light module
 building_acot_giga_fortress_obelisk_tooltip: "\n§HGiga Orbital Defenses:§! This building provides orbital defense weapon to the planet. They will automatically fire at enemy fleets that attempt to bombard the planet. Giga Fortresse will cripple a single enemy ship with a deadly weapon dealing §Y30000-45000§! to §Y3§ random enemy ships every §Y30§! days."  
 
 building_fe_giga_fortress: "Arsenal Orb"
-building_fe_giga_fortress_desc: "An old, but still immensely powerful titanic-sized self-sustain planetary fortress armed to the teeth with anti-invasion mechanisms. Blowing up primitives or wildlifes are amongst one of the only things these hedonists still enjoy as what still passes for "jobs""
+building_fe_giga_fortress_desc: "An old, but still immensely powerful titanic-sized self-sustain planetary fortress armed to the teeth with anti-invasion mechanisms. Blowing up primitives or wildlife are amongst one of the only things these hedonists still enjoy as what still passes for "jobs""
  
 tech_acot_giga_fortress: "Giga Fortress Visualization"
 tech_acot_giga_fortress_desc: "Powered by the enigmatic dark energy reactor, Giga Fortress is the deadliest, self-sustaining planetary fortress that can sweep away but the deadliest invasion forces."

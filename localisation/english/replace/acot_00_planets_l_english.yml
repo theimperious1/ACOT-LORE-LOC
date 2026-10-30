@@ -23,15 +23,15 @@ decision_acot_kill_void_mutant_desc: "Initiate the attack on all major mutant st
 ##########################
  
 acot_modifier_fractured_lifeforms: "Void Fiends"
-acot_modifier_fractured_lifeforms_desc: "Abominations mutated from local wildlifes that managed to thrive under this harsh environment, their nest must be burnt out by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+acot_modifier_fractured_lifeforms_desc: "Abominations mutated from local wildlife that managed to thrive under this harsh environment, their nest must be burnt out by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
  
 acot_void_fiends_army: "Void Fiend"
 acot_void_fiends_army_plural: "Void Fiends"
-acot_void_fiends_army_desc: "Abominations mutated from local wildlifes that managed to thrive under this harsh environment. Many of them seem to be able to generate powerful attacks using both dark energy and dark matter."
+acot_void_fiends_army_desc: "Abominations mutated from local wildlife that managed to thrive under this harsh environment. Many of them seem to be able to generate powerful attacks using both dark energy and dark matter."
  
 acot_void_fiends_hero: "Void Crusher"
 acot_void_fiends_hero_plural: "Void Crushers"
-acot_void_fiends_hero_desc: "Massive Abominations mutated from local wildlifes that managed to thrive under this harsh environment. The Void Crusher towers above buildings and is immensely dangerous."
+acot_void_fiends_hero_desc: "Massive Abominations mutated from local wildlife that managed to thrive under this harsh environment. The Void Crusher towers above buildings and is immensely dangerous."
  
  
 decision_acot_kill_void_lifeform: "Invade Fiend Nests"
