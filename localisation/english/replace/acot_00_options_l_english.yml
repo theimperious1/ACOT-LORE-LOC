@@ -17,7 +17,7 @@ edict_acot_mod_menu_edict: "§YACOT Configuration Menu§!"
 edict_acot_mod_menu_edict_desc: "This is the main page of the configuration."
  
 acot_mod_options_title: "Ancient Cache of Technologies Tech Options Menu"
-acot_mod_options_desc: "This configulation menu allows you to modify various contents within ACOT."
+acot_mod_options_desc: "This configuration menu allows you to modify various contents within ACOT."
  
 acot_mod_options.exit: "Exit Menu"
 
@@ -27,7 +27,7 @@ acot_mod_options.1: "Learn More About ACOT"
 acot_mod_options.1.tooltip: "Read on a brief summary of ACOT and its submods in case you somehow subscribe to the mod without knowing what you're getting yourselves into."
 
 acot_mod_options.100.name: "About ACOT"
-acot_mod_options.100.desc: "Ancient Cache of Technologies expand on late-game contents by adding additional new technologies, events and contents. Most of mod's contents will only be experienced once you get past vanilla tier five technologies. Each tier beyond vanilla will require a series of events and progressions to be unlocked.\n\nIn addition, ACOT offers a variety of extra sub-mods, both official and unofficial. Hover on each of the botton below to get a brief tooltip on what each submod does (Pressing the buttons do not activate currently inactive submods, you need to actually subscribe and start a new game to make them active)"
+acot_mod_options.100.desc: "Ancient Cache of Technologies expand on late-game contents by adding additional new technologies, events and contents. Most of mod's contents will only be experienced once you get past vanilla tier five technologies. Each tier beyond vanilla will require a series of events and progressions to be unlocked.\n\nIn addition, ACOT offers a variety of extra sub-mods, both official and unofficial. Hover on each of the button below to get a brief tooltip on what each submod does (Pressing the buttons do not activate currently inactive submods, you need to actually subscribe and start a new game to make them active)"
 
 acot_mod_options.100.a: "ACOT: Override - [Root.GetOverrideActiveStatus]"
 acot_mod_options.100.a.tooltip: "This submod overwrites some vanilla files to provide more seamless transition from vanilla stuffs into ACOT. It also upgrades Fallen Empires and Crisis in vanilla to use ACOT-based components.\n\nMost of this mod's functions will work retroactively on ongoing game unless the crisis has already spawned.\nFallen Empire ships already created before installation will not be updated, only new ones will be."
@@ -122,7 +122,7 @@ acot_mod_options.300.c2: "Stellar Anomaly Events are §Rdisabled§!. §GEnable§
 acot_mod_options.300.c2.tooltip: "Enables Stellar Events Events."
 
 acot_mod_options.300.d: "Bombardment Events are §Genabled§!. §RDisable§!?"
-acot_mod_options.300.d.tooltip: "Disables Bombardment Events from occuring. This will turn all ACOT bombardments into generic, extremely powerful bombardments with no extra aftermatch events."
+acot_mod_options.300.d.tooltip: "Disables Bombardment Events from occurring. This will turn all ACOT bombardments into generic, extremely powerful bombardments with no extra aftermath events."
 acot_mod_options.300.d2: "Bombardment Events are §Rdisabled§!. §GEnable§!?"
 acot_mod_options.300.d2.tooltip: "Enables Bombardment Events, allowing tears and destructions to occur."
  
@@ -220,7 +220,7 @@ acot_mod_options.610.a.hard: "Retaliation Fleet Size: §PLarge§!"
 acot_mod_options.610.a.hard.desc: "The Agent will be able to spawn weirdly large amount of ships per fleet in a way they normally shouldn't be. Up to four fleets will be spawned per wave."
  
 acot_mod_options.610.b: "Escalation Mechanic is §EEnabled§!. §RDisable§!?"
-acot_mod_options.610.b.tooltip: "Escalation Mechanics cause the Corps to gradually become more agitated the more an empire research advanced technology or destroy their assets. If escalation reaches critical point, they will awake as a crisis and become hostile to all empires. Disabling this mechanic cause them to only awaken during Rival Path or after their system is conquererd." 
+acot_mod_options.610.b.tooltip: "Escalation Mechanics cause the Corps to gradually become more agitated the more an empire research advanced technology or destroy their assets. If escalation reaches critical point, they will awake as a crisis and become hostile to all empires. Disabling this mechanic cause them to only awaken during Rival Path or after their system is conquered." 
 acot_mod_options.610.b2: "Escalation Mechanic is §RDisabled§!. §EEnable§!?"
 acot_mod_options.610.b2.tooltip: "Escalation Mechanics cause the Corps to gradually become more agitated the more an empire research advanced technology or destroy their assets. If escalation reaches critical point, they will awake as a crisis and become hostile to all empires."
 
@@ -235,7 +235,7 @@ acot_mod_options.610.d2: "Star Bender Expansions are §RDisabled§!. §EEnable§
 acot_mod_options.610.d2.tooltip: "Defines whether the Corps will deploy Star Benders alongside the assault fleets to generate new expansions. Enabling this will allow the Corps to  use these devious ships to expand their influences."
 
 acot_mod_options.610.e: "Ambush Portals are §EEnabled§!. §RDisable§!?"
-acot_mod_options.610.e.tooltip: "Defines whether the Corps will attemp to ambush empires by spawning various portals that, if not interrupted, will create ambush fleets." 
+acot_mod_options.610.e.tooltip: "Defines whether the Corps will attempt to ambush empires by spawning various portals that, if not interrupted, will create ambush fleets." 
 acot_mod_options.610.e2: "Ambush Portals are §RDisabled§!. §EEnable§!?"
 
 acot_mod_options.610.f: "AI Ultramemberships are §EEnabled§!. §RDisable§!?"
@@ -248,12 +248,12 @@ acot_mod_options.610.g.tooltip: "This option will permanently remove Phanon Corp
 ###################################################################################
 
 acot_mod_options.7: "§YSBTG Options§!"
-acot_mod_options.7.tooltip: "This will open up the Secret Beyond the Gates Configulation Menu"
+acot_mod_options.7.tooltip: "This will open up the Secret Beyond the Gates Configuration Menu"
 
 ###################################################################################
 
 acot_mod_options.9: "§RAOT Options§!"
-acot_mod_options.9.tooltip: "This will open up the Acquisition of Technologies Configulation Menu"
+acot_mod_options.9.tooltip: "This will open up the Acquisition of Technologies Configuration Menu"
 
 
 ###################################################################################
@@ -265,7 +265,7 @@ acot_mod_options.800.name: "Debug Options"
 acot_mod_options.800.desc: "This option allows you to remove certain contents within the game, either from ACOT itself, or things related to the ACOT from existing.\n\n§RNeedless to say, many of these options are legit cheats. Be careful what you're about to do, don't let your friends caught you cheating!§!"
 
 acot_mod_options.800.a: "Clear Diplomacy Lock Flag"
-acot_mod_options.800.a.tooltip: "This will clear up the flag that locks diplomacy. Use when you are unable to contact SOPHIA, Phanon, or other ACOT-based diplomacy anymore. To avoid breaking the game, please avoid using this intentionaly to generate multiple diplomacy windows."
+acot_mod_options.800.a.tooltip: "This will clear up the flag that locks diplomacy. Use when you are unable to contact SOPHIA, Phanon, or other ACOT-based diplomacy anymore. To avoid breaking the game, please avoid using this intentionally to generate multiple diplomacy windows."
 
 acot_mod_options.800.b: "Obtains Delta Tech"
 acot_mod_options.800.b.tooltip: "This will give almost every ACOT's Delta Techs immediately. If you already have Delta Tech, this option will swap to Alpha instead."
@@ -287,7 +287,7 @@ edict_acot_arsenal_menu_edict_desc: "Access the Weapons and Arsenal Development 
 edict_acot_arsenal_menu_edict_fail: "§RMenu is already active.§!"
 
 acot_arsenal_menu.1.name: "Expanding Our Arsenal"
-acot_arsenal_menu.1.desc: "The weapon reearch division is pleased to report their latest findings, soon we'll be able to develop new and more powerful weapons to bolster our forces.\n\nHowever, there are some who are concerned about the increasing amount of weapon prototypes proposed by various groups, and those who advocates for the discontinuation of some older concepts that they believe to be obsolete. They'd like to know if we wish to make any adjustments to what our empires should avoid researching in the future."
+acot_arsenal_menu.1.desc: "The weapon research division is pleased to report their latest findings, soon we'll be able to develop new and more powerful weapons to bolster our forces.\n\nHowever, there are some who are concerned about the increasing amount of weapon prototypes proposed by various groups, and those who advocates for the discontinuation of some older concepts that they believe to be obsolete. They'd like to know if we wish to make any adjustments to what our empires should avoid researching in the future."
 acot_arsenal_menu.1.a: "Very well, let's have a review."
 acot_arsenal_menu.1.a.tooltip: "Open up the Options menu to review our weapon research options in case we wish to narrow down the scope of weapons we are interested in."
 acot_arsenal_menu.1.b: "Not interested."
@@ -339,7 +339,7 @@ acot_arsenal_menu.201.autocannons.disabled: "Autocannons: §RDisabled§!"
 acot_arsenal_menu.201.autocannons.tooltip: "Autocannons fire deadly rounds at high fire rate. Good against shields and hulls. Very Poor against armor. Short Range."
 acot_arsenal_menu.201.macrocannons.enabled: "Macrocannons: §GEnabled§!"
 acot_arsenal_menu.201.macrocannons.disabled: "Macrocannons: §RDisabled§!"
-acot_arsenal_menu.201.macrocannons.tooltip: "Marcocannons are specialized autocannons mounted on torpedo slots. Very good against shields. Poor againast armor. Short range. Deals More damage to bigger ship classes."
+acot_arsenal_menu.201.macrocannons.tooltip: "Marcocannons are specialized autocannons mounted on torpedo slots. Very good against shields. Poor against armor. Short range. Deals More damage to bigger ship classes."
 acot_arsenal_menu.201.artillery.enabled: "Kinetic Artilleries: §GEnabled§!"
 acot_arsenal_menu.201.artillery.disabled: "Kinetic Artilleries: §RDisabled§!"
 acot_arsenal_menu.201.artillery.tooltip: "Kinetic Artilleries. Very Good against shields. Poor against armor. Long range. Has minimum range. "

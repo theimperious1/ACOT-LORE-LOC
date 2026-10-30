@@ -33,7 +33,7 @@ resurface_protocol: "Immortality Protocol Engaged"
 resurface_protocol_desc: "Eternal Services."
  
 acot_special_menu.50.title: "Immortality Protocol Engaged"
-acot_special_menu.50.desc: "One of our leaders, [From.GetName] has been terminated. But the Immortality Protocol is in effect and will be able to rebuild [From.GetName] back.\n\nHowever, the system cannot classify whether [From.GetName] has been destroyed, or simply dismissed for being incompentent.\n\nShall we revive this leader?"
+acot_special_menu.50.desc: "One of our leaders, [From.GetName] has been terminated. But the Immortality Protocol is in effect and will be able to rebuild [From.GetName] back.\n\nHowever, the system cannot classify whether [From.GetName] has been destroyed, or simply dismissed for being incompetent.\n\nShall we revive this leader?"
 acot_special_menu.50.a: "Affirmative, we will rebuild [From.GetName], we have the technology."
 acot_special_menu.50.a.explain: "Will revive the leader. Do not use this on a dismissed leader."
 acot_special_menu.50.b: "Negative, [From.GetName] is annoying and useless to us, we will just get a better model."

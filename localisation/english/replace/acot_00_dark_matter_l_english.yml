@@ -21,7 +21,7 @@
  country_resource_sr_dark_matter_add: "Dark Matter Strategic Resource Added" 
  
  acot_dark_matter_event.1.name: "The Dark Inside"
- acot_dark_matter_event.1.desc.a: "The topic of Dark Matter has always been a wild part of scientific discussion. What exactly is it, and what can be done with it? Some scientists start to spread the big talk about using Dark Matter as some sort of generator...which seems to be quite bizzare, the theory defiles all our current knowledge of physics. But perhaps there is some merit in this rumor? We should explore further."
+ acot_dark_matter_event.1.desc.a: "The topic of Dark Matter has always been a wild part of scientific discussion. What exactly is it, and what can be done with it? Some scientists start to spread the big talk about using Dark Matter as some sort of generator...which seems to be quite bizarre, the theory defiles all our current knowledge of physics. But perhaps there is some merit in this rumor? We should explore further."
  acot_dark_matter_event.1.desc.b: "The topic of Dark Matter has always been a wild part of scientific discussion. What exactly is it, and what can be done with it? We have already seen examples of other empires utilizing the power, so there clearly is something more about it. But speculation alone will not advance our cause, so we should begin a more through exploration into the subject."
  acot_dark_matter_event.1.desc.c: "We are getting closer to understanding the knowledge that has been lost to us. We know that they must be related to Dark Matter, so understanding them will be the key to regaining our past glory. Hopefully this time, we will be more prepared."
  acot_dark_matter_event.1.a: "We must explore all possibilities."
@@ -34,7 +34,7 @@
  RESEARCH_DARK_POWER_NORMAL_DESC: "Using our empire's own resources, we will attempt to study deeper into Dark Matter and its capabilities, as well as the ways in which it can be generated, harnessed and utilized. The process is long and rather chaotic as scientists try to come up with various theories.\n\nThe success and results of this project hinges on our science team's capabilities, so it is advised we muster a unique collection of gifted scientists before-handed."
  
  DARK_MATTER_SCIENTIST_AUGMENT: "The Dark Stuffs"
- DARK_MATTER_SCIENTIST_AUGMENT_DESC: "The topics related to Dark Matter and Enigmatic Technology is a stuff of legend that'd require some competency and critical thinking from even the most respected researchers and philosphers. Investing in education in this department will improve our scientists not just their ability to comprehend these arcane knowledge, but also a powerful brain exercise in general.\n\nCauses the Head of Research scientist's skill to be raised to 8 if lower, or increase by 1 if higher as well as giving Spark of Genius trait if missing. In addition, two other scientists will have their skills set to 6 if lower, or increases by 1 if higher."
+ DARK_MATTER_SCIENTIST_AUGMENT_DESC: "The topics related to Dark Matter and Enigmatic Technology is a stuff of legend that'd require some competency and critical thinking from even the most respected researchers and philosophers. Investing in education in this department will improve our scientists not just their ability to comprehend these arcane knowledge, but also a powerful brain exercise in general.\n\nCauses the Head of Research scientist's skill to be raised to 8 if lower, or increase by 1 if higher as well as giving Spark of Genius trait if missing. In addition, two other scientists will have their skills set to 6 if lower, or increases by 1 if higher."
 
  acot_dark_matter_event.2.name: "Analysis Complete"
  acot_dark_matter_event.2.desc: "It is confirmed! After multiple chaotic debates and failed experiments, we have learned many important discoveries. Our initial hypothesis was somewhat correct, Dark Matter indeed possess certain attributes that can be exploited as a usable power source, but there are many side effects that make them ill-suited for general practical uses. But the real interesting part, is its dimensional properties. Its nature reach far beyond our galaxy, and can attract even more interesting powers and substances, the most important one is something we have dubbed §EDark Energy§!.\n\nIf we can harness this newly discovered power, we may be able to advance beyond what any of our previously discovered strategic resources could provide."
@@ -124,10 +124,10 @@
  acot_dark_matter_event.9.a: "Interesting."
 
  acot_dm_tech_find_enigmatic_5: "Dark Design - Familiarity"
- acot_dm_tech_find_enigmatic_5_desc: "Before going further and explore the other mysterious energy that we observed as part of our Dark Matter research, we should focus on familiarizing ourselves with the technology, and prepare our lab resources for what is undoubetely going to be a deeper journey. We're only at the surface, and yet to know how deep down this rabbit hole goes."
+ acot_dm_tech_find_enigmatic_5_desc: "Before going further and explore the other mysterious energy that we observed as part of our Dark Matter research, we should focus on familiarizing ourselves with the technology, and prepare our lab resources for what is undoubtedly going to be a deeper journey. We're only at the surface, and yet to know how deep down this rabbit hole goes."
 
  acot_dark_matter_event.10.name: "Down the Rabbit Hole"
- acot_dark_matter_event.10.desc.a: "With all the compositions in place, we are ready to move to the next stage. To harvest Dark Energy and use it in conjuction with Dark Matter.\n\nFortunately, the process to harvest this power is made relatively much more simple with our current capabilities."
+ acot_dark_matter_event.10.desc.a: "With all the compositions in place, we are ready to move to the next stage. To harvest Dark Energy and use it in conjunction with Dark Matter.\n\nFortunately, the process to harvest this power is made relatively much more simple with our current capabilities."
  acot_dark_matter_event.10.desc.b: "In learning about Dark Matter and its power, we have come across another potential power source that can be drawn using Dark Matter. For now, we have dubbed it Dark Energy. It is theorized that if we harness this power source alongside Dark Matter, we can create something truly great."
  acot_dark_matter_event.10.a: "Ah, at last. Finally, this is more like it."
  acot_dark_matter_event.10.b: "A welcome addition!"
@@ -139,7 +139,7 @@
  acot_dark_matter_event.11.a.tooltip.b: "Some of our people still can't shake the uneasy feeling that this should been called Alpha first since well...its the first one. But clearly, these people lack imagination. Delta stands for Dark Matter and Dark Energy, so it doesn't have to follow the Greek Alphabetical Order."
 
  acot_dark_matter_event.12.name: "The Awakening."
- acot_dark_matter_event.12.desc: "Today marks a new begining. The New Begining. We stand at the dawn of our ascension, to make our mark in galactic history among the legends of old. The secrets of the ancients are now revealed, and we will reap the rewards as is rightfully ours. All technologies; weapons, defenses, armies, ships, infrastructures and many more, will soon be enhanced beyond what we could have ever dreamed of. It is truly eye-opening, we have awaken.\n\nWith so many new possibilities before us, we should determine what areas should our science team focus on, as there'll no doubt be many things to explore."
+ acot_dark_matter_event.12.desc: "Today marks a new beginning. The New Beginning. We stand at the dawn of our ascension, to make our mark in galactic history among the legends of old. The secrets of the ancients are now revealed, and we will reap the rewards as is rightfully ours. All technologies; weapons, defenses, armies, ships, infrastructures and many more, will soon be enhanced beyond what we could have ever dreamed of. It is truly eye-opening, we have awaken.\n\nWith so many new possibilities before us, we should determine what areas should our science team focus on, as there'll no doubt be many things to explore."
  acot_dark_matter_event.12.a: "Energy Weapons."
  acot_dark_matter_event.12.b: "Kinetic Weapons."
  acot_dark_matter_event.12.c: "Explosive Weapons."
@@ -181,7 +181,7 @@
  edict_acot_edict_sr_hull_desc: "Processed rare crystals leave behind dusts that seems to have some special reaction on some materials used on ship constructions. Though not as powerful or obvious as Living Metals, the resulting increase in durability is still quite visible."
 
  edict_acot_edict_sr_sensors: "Crystal Resonator"
- edict_acot_edict_sr_sensors_desc: "Through a strange method, rare crystals can act as a resonating agent that can echo and pinpoint other distant materials in the vaccuum of space."
+ edict_acot_edict_sr_sensors_desc: "Through a strange method, rare crystals can act as a resonating agent that can echo and pinpoint other distant materials in the vacuum of space."
 
 ##################
 

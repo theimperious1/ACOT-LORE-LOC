@@ -74,9 +74,9 @@ acot_digsite_events.4.b.1.explain: "Ancient though these technologies maybe, the
 acot_digsite_events.4.b.2: "Zero Point Reactor should do."
 acot_digsite_events.4.b.2.explain: "Zero Point Reactor represents the most advanced modern reactor utilized by the galactic community, it generates sufficient output to power even the Juggernaut and requires relatively low costs. It should be sufficient to power up important parts of the ship."
 acot_digsite_events.4.b.3: "Try the Enhanced ZP Reactor."
-acot_digsite_events.4.b.3.explain: "There is no telling just how much do you need energy to operate this level of technology. Our goal is to gain entrance, not to light the whole place up, some of our archelogists argue that we should maintain the delicate balance between how much we feed the energy. The enhanced version of the Zero Point Reactor provides the most optimal condition for this. It should provide sufficient power, without awakening other surprise mechanics the system may has in store."
+acot_digsite_events.4.b.3.explain: "There is no telling just how much do you need energy to operate this level of technology. Our goal is to gain entrance, not to light the whole place up, some of our archaeologists argue that we should maintain the delicate balance between how much we feed the energy. The enhanced version of the Zero Point Reactor provides the most optimal condition for this. It should provide sufficient power, without awakening other surprise mechanics the system may has in store."
 acot_digsite_events.4.b.4: "Use the Delta Reactor."
-acot_digsite_events.4.b.4.explain: "There is no doubt that this is yet another relic of the ancient precursors, which means at the bare minimum we can expect that Enigmatic energies will be involved. Delta Reactor seems to slot in perfectly into this puzzle, and may be just what we need to get our answers. The only concenn is whether we may wake up something other than the door's mechanisms?"
+acot_digsite_events.4.b.4.explain: "There is no doubt that this is yet another relic of the ancient precursors, which means at the bare minimum we can expect that Enigmatic energies will be involved. Delta Reactor seems to slot in perfectly into this puzzle, and may be just what we need to get our answers. The only concern is whether we may wake up something other than the door's mechanisms?"
  
 ######################### CHAPTER FOUR ###################################
  
@@ -103,7 +103,7 @@ acot_digsite_events.5.d.2.explain: "The team has been ordered to access P-BCS an
 acot_digsite_events.5.d.3: "Access P-ESC/HPR Chamber"
 acot_digsite_events.5.d.3.explain: "The team has been ordered to access P-ESC and P-HPR Chamber, unfortunately this means that the P-BCS will be lost to us."
  
-acot_digsite_events.5.e.desc: "§YThe Brightest Burn§!\n\nSystems are coming online after we successfully installed the Delta Reactor and the team is happy to report that the entirety of the station is coming back to life. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it.\n\nThanks to our efforts, all three chambers are fully accessible to the research team and they are eager to see what can be discovered in this forgotton relic."
+acot_digsite_events.5.e.desc: "§YThe Brightest Burn§!\n\nSystems are coming online after we successfully installed the Delta Reactor and the team is happy to report that the entirety of the station is coming back to life. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it.\n\nThanks to our efforts, all three chambers are fully accessible to the research team and they are eager to see what can be discovered in this forgotten relic."
 acot_digsite_events.5.e.1: "What secrets will we find?"
  
 acot_digsite_events.500.name: "Vault Security System"
@@ -199,7 +199,7 @@ acot_digsite_events.1002.desc: "The A'merigo replicates a fleet of Ancient Outsi
 acot_digsite_events.1002.a: "Just how primitive are we compared to the past?"
  
 acot_digsite_events.1003.name: "Show Me the Money"
-acot_digsite_events.1003.desc: "The A'merigo manages to replicate supply ships carring various useful loots for our cause."
+acot_digsite_events.1003.desc: "The A'merigo manages to replicate supply ships carrying various useful loots for our cause."
 acot_digsite_events.1003.a: "Ours now!"
  
 acot_digsite_events.1004.name: "The Big Cheese"

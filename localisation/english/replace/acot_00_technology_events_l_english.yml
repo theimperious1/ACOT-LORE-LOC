@@ -226,10 +226,10 @@ acot_ships.201.a.explain: "Like a parasite, they must be burnt out for the galax
  
  
 acot_ships.80.name: "Emissary arriving on §E[From.GetName]§!"
-acot_ships.80.desc: "The Emissary has finished deploying its reclaimation agents on the target. Coated in invisible hard-light micromatters, the celestial body can now be removed and its leftover matter be processed back into usable resources. Should the process be executed?"
+acot_ships.80.desc: "The Emissary has finished deploying its reclamation agents on the target. Coated in invisible hard-light micromatters, the celestial body can now be removed and its leftover matter be processed back into usable resources. Should the process be executed?"
 acot_ships.80.a: "Affirmative, we have no more need for §Y[From.GetName]§!."
 acot_ships.80.a.explain: "This will remove §Y[From.GetName]§!, and provides the listed amount of resources, which are dependent on the type of celestial body."
-acot_ships.80.b: "Negative, remove the reclaimation agents."
+acot_ships.80.b: "Negative, remove the reclamation agents."
 acot_ships.80.b.explain: "Stop the process and removes the cooldown on the Emissary."
 
 acot_ships.90.name: "Emissary Beam Ready"
@@ -241,7 +241,7 @@ acot_ships.90.b.tooltip: "Selects from potential special habitable planets. Most
 acot_ships.90.c: "Terraform into an uninhabitable planet."
 acot_ships.90.c.tooltip: "Selects from potential uninhabitable planets. Terraforming Candidate Modifier will be applied for traditional terraformation later if needed."
 acot_ships.90.d: "We are not interested in terraforming for now."
-acot_ships.90.d.tooltip: "Do nothing, proceed to planeteary size adjustment."
+acot_ships.90.d.tooltip: "Do nothing, proceed to planetary size adjustment."
 
 acot_ships.91.name: "Habitable Planet Terraformation"
 acot_ships.91.desc: "Selects from potential standard habitable planets. Costs depend on planet class."

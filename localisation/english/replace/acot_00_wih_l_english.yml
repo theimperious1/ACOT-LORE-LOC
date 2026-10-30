@@ -15,7 +15,7 @@ acot_war_in_hell.1.b.tooltip: "The Fallen Empire will awake and acquire all adva
 acot_war_in_hell.1.b.response: "We shall see. Executor, prepare to confiscate all technologies and bring the technology cache aboard our homeworld for study."
 
 acot_war_in_hell.1.c: "Do not intimidate us. Our forces are a match to yours."
-acot_war_in_hell.1.c.tooltip: "Given our current military capabilities, the Fallen Empire may think twice before trying anything funny. But these decripit elders tend to be irrational."
+acot_war_in_hell.1.c.tooltip: "Given our current military capabilities, the Fallen Empire may think twice before trying anything funny. But these decrepit elders tend to be irrational."
 acot_war_in_hell.1.c.response: "Hah! You think your forces are capable of stopping us? We shall see, little one. We shall see..."
 
 acot_war_in_hell.1.d: "§Y(Lie)§! Our goal is to develop this new power for your use, great one."
@@ -58,14 +58,14 @@ acot_war_in_hell.17.desc: "See, you plebeians know nothing of warfare. The fact 
 acot_war_in_hell.17.a: "Woops."
  
 acot_war_in_hell.18.name: "Epic Fail"
-acot_war_in_hell.18.desc.others: "Woah! Something shocking happened. Apparently something terribly wrong has occured on the capital system of the [FallenEmpireTaskOrigin.GetName]! The capital planet just blew up, and all fleets orbiting the system have been turned into smoking craters.\n\nSomething must have gone horribly wrong for them."
-acot_war_in_hell.18.desc: "The device worked as planned. The Fallen Empire attempted to crack open the virus-imbued cache upon their capital planet. But the damage done by the virus appears to be much greater than we anticipated, it is as if their whole system just collapsed altogher!\n\nReports indicate the entire navy stationed aboard their homeworld has been destroyed along with the planet itself. Perhaps they have become so reliant on precursor technologies that the virus basically destroy them all."
+acot_war_in_hell.18.desc.others: "Woah! Something shocking happened. Apparently something terribly wrong has occurred on the capital system of the [FallenEmpireTaskOrigin.GetName]! The capital planet just blew up, and all fleets orbiting the system have been turned into smoking craters.\n\nSomething must have gone horribly wrong for them."
+acot_war_in_hell.18.desc: "The device worked as planned. The Fallen Empire attempted to crack open the virus-imbued cache upon their capital planet. But the damage done by the virus appears to be much greater than we anticipated, it is as if their whole system just collapsed altogether!\n\nReports indicate the entire navy stationed aboard their homeworld has been destroyed along with the planet itself. Perhaps they have become so reliant on precursor technologies that the virus basically destroy them all."
 acot_war_in_hell.18.a: "This outcome is inevitable, given their lack of common senses."
 acot_war_in_hell.18.b: "They are called fallen empires for a reason."
  
 acot_war_in_hell.19.name: "The Final Voyage"
-acot_war_in_hell.19.desc.others: "Woah! Something shocking just happened. Apparently something terribly wrong has occured on the capital system of the [FallenEmpireTaskOrigin.GetName]! The capital planet just blew up and caused a massive chain-reaction that somehow caused the entire empire's infrastructure to combust into a massive Dark Matter explosion. The Fallen Empire is no more."
-acot_war_in_hell.19.desc: "The device worked as planned. The Fallen Empire attempted to crack open the virus-imbued cache upon their capital planet. But the damage done by the virus appears to be much greater than we anticipated, it is as if their whole system just collapsed altogher!\n\nReports indicate the entire navy stationed aboard their homeworld has been destroyed along with the planet itself. Perhaps they have become so reliant on precursor technologies that the virus basically destroy them all."
+acot_war_in_hell.19.desc.others: "Woah! Something shocking just happened. Apparently something terribly wrong has occurred on the capital system of the [FallenEmpireTaskOrigin.GetName]! The capital planet just blew up and caused a massive chain-reaction that somehow caused the entire empire's infrastructure to combust into a massive Dark Matter explosion. The Fallen Empire is no more."
+acot_war_in_hell.19.desc: "The device worked as planned. The Fallen Empire attempted to crack open the virus-imbued cache upon their capital planet. But the damage done by the virus appears to be much greater than we anticipated, it is as if their whole system just collapsed altogether!\n\nReports indicate the entire navy stationed aboard their homeworld has been destroyed along with the planet itself. Perhaps they have become so reliant on precursor technologies that the virus basically destroy them all."
 acot_war_in_hell.19.a: "What a waste of space. Good riddance."
 acot_war_in_hell.19.b: "Will anyone even mourn them? They were quite annoying."
  
