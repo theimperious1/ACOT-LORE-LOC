@@ -11,7 +11,7 @@ acot_d_dark_matter_deposit_fractured: "£sr_dark_matter£ §Y+15§!\n£acot_sr_d
 acot_d_dark_matter_deposit_fractured_30: "£sr_dark_matter£ §Y+30§!\n£acot_sr_dark_energy£ §Y+30§!"
 acot_d_dark_matter_deposit_fractured_50: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
 acot_d_dark_matter_deposit_fractured_ae: "£sr_dark_matter£ §Y+50§!\n£acot_sr_dark_energy£ §Y+50§!"
-acot_d_dark_matter_deposit_fractured_ae_100: "£sr_dark_matter£ §Y+3100§!\n£acot_sr_dark_energy£ §Y+100§!"
+acot_d_dark_matter_deposit_fractured_ae_100: "£sr_dark_matter£ §Y+100§!\n£acot_sr_dark_energy£ §Y+100§!"
 acot_d_dark_matter_deposit_fractured_ae_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!"
 
 acot_d_dark_matter_deposit_void_hole_200: "£sr_dark_matter£ §Y+200§!\n£acot_sr_dark_energy£ §Y+200§!\n£physics£ +20"

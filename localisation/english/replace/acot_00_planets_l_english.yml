@@ -135,7 +135,7 @@ acot_planets.302.desc: "The hostile Void Floras have attacked our colony on [roo
 acot_planets.302.a: "Burn them alive!"
  
 acot_planets.303.name: "Void Fiends Attacks!"
-acot_planets.303.desc: "The rabid Void fields have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.303.desc: "The rabid Void fiends have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
 acot_planets.303.a: "They must die!"
  
 acot_planets.304.name: "Void Crystal Attacks!"

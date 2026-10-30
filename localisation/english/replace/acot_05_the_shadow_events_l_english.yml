@@ -85,7 +85,7 @@ acot_shadow_events.4.f: "Understood"
 acot_shadow_events.4.g: "Ok"
 
 acot_shadow_events.400.name: "§YThe Opposing Voice§!"
-acot_shadow_events.400.desc: "§Y...Stop!...\n\nDo not listen to those false promises, §E[root.GetName]§!! Do not squander away your gifts, your potentials your so...§!\n\n§M...Pay no need to these distracting noises, my children. They do not understand your ambitions and desires. Focus. Focus and open yourselves to me. So that we may become one. Embrace me...§!"
+acot_shadow_events.400.desc: "§Y...Stop!...\n\nDo not listen to those false promises, §E[root.GetName]§!! Do not squander away your gifts, your potentials your so...§!\n\n§M...Pay no heed to these distracting noises, my children. They do not understand your ambitions and desires. Focus. Focus and open yourselves to me. So that we may become one. Embrace me...§!"
 acot_shadow_events.400.a: "§RObey§!"
 acot_shadow_events.400.b: "§YObey§!"
 acot_shadow_events.400.c: "§EObey§!"
