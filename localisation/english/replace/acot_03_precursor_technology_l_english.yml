@@ -190,15 +190,15 @@ tech_acot_precursor_herculean_science_e8_desc: "Every new knowledge, every now t
 tech_acot_precursor_herculean_science_e8_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!"
 
 tech_acot_precursor_herculean_science_curator: "Herculean Curator Archive Package"
-tech_acot_precursor_herculean_science_curator_desc: "Although the Curators are wholely incapable of offering anything related to the science behind the Herculean, their knowledge of galactic history may be useful in the future."
+tech_acot_precursor_herculean_science_curator_desc: "Although the Curators are wholly incapable of offering anything related to the science behind the Herculean, their knowledge of galactic history may be useful in the future."
 tech_acot_precursor_herculean_science_curator_modifier: "Upgrades the Herculeans with the ability to produce the following resources.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!\n§Y500 £unity£!\n§Y5 £minor_artifacts£!"
 
 ACOT_HERCULEAN_SPIRIT_WEAPON_8E: "Spectral Projection"
-ACOT_HERCULEAN_SPIRIT_WEAPON_8E_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a specrral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target."
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a spectral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target."
 acot_precursor_colossus_spirit_weapon_8e_tt: "Deals §Y100,000§! hull damage to all ships within the same fleet as the target."
 
 ACOT_HERCULEAN_SPIRIT_WEAPON_7S: "Stellar Spectral Projection"
-ACOT_HERCULEAN_SPIRIT_WEAPON_7S_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a specrral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target."
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S_DESC: "A powerful anti-capital ship weapon that utilizes a combination of hard-light and dimensional technology to create a spectral form of the Herculean's heart itself that can be launched at enemy targets. Once the form reaches the target, it materializes into physical space and causes massive negative energy explosion, obliterating both itself and the target."
 acot_precursor_colossus_spirit_weapon_7s_tt: "Deals §Y150,000§! hull damage to all ships within the same fleet as the target."
 
 ACOT_HERCULEAN_L_WEAPON_8E: "Herculean Tri-force Artillery"
@@ -247,19 +247,19 @@ ACOT_HERCULEAN_SHIELD_7S: "Herculean Stellar Defense Matrix"
 ACOT_HERCULEAN_SHIELD_7S_DESC: "Herculean Stellar Defense Matrix"
 
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "Condensed Resonant Cascade"
-ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_DESC: "A modified, condensed version of the still terrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_DESC: "A modified, condensed version of the still terrifying Herculean Superweapon capable of annihilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process."
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_ACTION: "Condensed Resonant Tear"
 FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "Preparing to cause resonant cascade on $PLANET|Y$"
 MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E: "was used to cause resonant cascade by"
 
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "Resonant Cascade"
-ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_DESC: "Horrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. One strike from this weapon may kill an entire empire."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_DESC: "Horrifying Herculean Superweapon capable of annihilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. One strike from this weapon may kill an entire empire."
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_ACTION: "Resonant Tear"
 FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "Preparing to cause resonant cascade on $PLANET|Y$"
 MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E: "was used to cause resonant cascade by"
 
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "Supercharged Resonant Cascade"
-ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_DESC: "Horrifying Herculean Superweapon capable of annhilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. In addition, the effect spreads to random systems owned by the hostile forces far beyond the immediate neighbouring system, making that there is no escape from the Supercharged variant."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_DESC: "Horrifying Herculean Superweapon capable of annihilation an entire empire with a single concentrated blast of pure void energy and dimensional catalysts. Once fully charged, the Cascade will cause the system star to undergo total dimensional collapse, turning it into a Void Star, and all other celestial bodies warped beyond recognition, while annihilating most space objects in the process. But what truly makes this weapon terrifying is that its ability to cause a chain reaction to all nearby systems controlled by hostile forces. These systems will, within 60 days, undergo the same resonic cascade, and will continue to spread until there's no more adjacent hostile systems. In addition, the effect spreads to random systems owned by the hostile forces far beyond the immediate neighbouring system, making that there is no escape from the Supercharged variant."
 ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_ACTION: "Supercharged Resonant Tear"
 FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "Preparing to cause resonant cascade on $PLANET|Y$"
 MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S: "was used to cause resonant cascade by"
@@ -351,10 +351,10 @@ hostile_acot_precursor_cursor_buffer_aura: "Precursor-Pattern Fleet Synchronizer
 ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_BUFFER_TOOLTIP: "This aura only affects Precursor and Fallen Empire ships."
 
 ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER: "Anti-Precursor-Pattern Fleet Inhibitor"
-ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_DESC: "Inhibitors designed to intefere and tamper with precursor ship's systems. Useful when fighting against other Precursor or Fallen Empire Ships with modern or other designs. Be wary that this will also tamper with our own precursor's ships, save for the ship that bears this component."
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_DESC: "Inhibitors designed to interfere and tamper with precursor ship's systems. Useful when fighting against other Precursor or Fallen Empire Ships with modern or other designs. Be wary that this will also tamper with our own precursor's ships, save for the ship that bears this component."
 friendly_acot_precursor_cursor_debuffer_aura: "Anti-Precursor-Pattern Fleet Inhibitor"
 hostile_acot_precursor_cursor_debuffer_aura: "Anti-Precursor-Pattern Fleet Inhibitor"
-ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_TOOLTIP: "This aura only affects Precursor and Fallen Empire ships except for the ship with this compoenent (Making it unaffected by its own inhibitor)."
+ACOT_PRECURSOR_SHIP_AURA_PRECURSOR_DEBUFFER_TOOLTIP: "This aura only affects Precursor and Fallen Empire ships except for the ship with this component (Making it unaffected by its own inhibitor)."
 
 ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD: "Guardian Shield Generator"
 ACOT_PRECURSOR_SHIP_AURA_GUARDIAN_SHIELD_DESC: "Specialized fleet Shield Generator that provides a fixed amount of shield with very high regeneration to all allied ships in the system. Particularly useful for smaller ships that may otherwise lack durability."
@@ -365,7 +365,7 @@ ACOT_PRECURSOR_SHIP_AURA_TRACKING_DEBUFFER_DESC: "Specialized aura built to coun
 acot_precursor_tracking_debuffer_aura: "Space Cyberwarfare Systems"
 
 ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER: "Point-Defense Jammer"
-ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER_DESC: "The ever-increasing deadliness of point defense weapons require some form of countermeasures if we want our misisles and strikecrafts to achieve anything in their life time."
+ACOT_PRECURSOR_SHIP_AURA_PD_JAMMER_DESC: "The ever-increasing deadliness of point defense weapons require some form of countermeasures if we want our missiles and strikecrafts to achieve anything in their life time."
 acot_precursor_pd_jammer_aura: "Point-Defense Jammer"
 
 ####################################
@@ -1146,7 +1146,7 @@ tech_precursor_sentinel: "Precursor Sentinel Schematics"
 tech_precursor_sentinel_desc: "A variation of the Precursor Defense Platform, specifically built for anti-capital ship roles, as well as extremely durable hull."
 
 tech_precursor_design: "Precursor Databank Analysis"
-tech_precursor_design_desc: "In order to understand more about the history of the Precursors, an analysis and activation of the Databank AI Assistant must be done.\n\nOnce we finished our analysis and determine whether the the AI will pose a threat to our security or not, we may decide on what to begin next."
+tech_precursor_design_desc: "In order to understand more about the history of the Precursors, an analysis and activation of the Databank AI Assistant must be done.\n\nOnce we finished our analysis and determine whether the AI will pose a threat to our security or not, we may decide on what to begin next."
 
 tech_precursor_design_engineering: "Alpha Project: Precursor Engineering"
 tech_precursor_design_engineering_desc: "A comprehensive and thorough study on how the Precursors of the past developed various materials, designs, prototypes and ships will give us a rough understanding on how to best create components that can sustain and contain the powers of the new energy source from Alpha Project."
@@ -1179,7 +1179,7 @@ tech_precursor_bc_delta: "Modular Battlecruiser Design"
 tech_precursor_bc_delta_desc: "It is past time we get rid of the inflexibilities of the fallen ships. We will implement more modern templates that will be much stronger, but also offer new variations for the Battlecruiser."
 
 tech_precursor_colossus: "Herculean Battlestation"
-tech_precursor_colossus_desc: "This data reveeals the hidden truth. The colossi that the fallen precursors used were in fact incompleted...it is only one portion of a much larger weapon. This "Herculean" is a massive battlestation dwarfing even citadels. The ship is massive enough that it can support two primary reactors and has a built-in self-repair protocol that allows it to repair its hull to full conditions as soon as it reaches critical damage for the first time. The "Colossus" portion makes up the inner layer of the station. It seems the fallen empire decided to strip down the original design and only utilized the Colossus Section for their world-altering weapons.\n\nThis does not make a lot of sense...why would the fallen precursors decide to give us this schematics? Perhaps they think that we won't be able to build such a massive vessel? Is there a hidden exhaust port somewhere that may blow up the ship in one hit? We can only guess."
+tech_precursor_colossus_desc: "This data reveals the hidden truth. The colossi that the fallen precursors used were in fact incompleted...it is only one portion of a much larger weapon. This "Herculean" is a massive battlestation dwarfing even citadels. The ship is massive enough that it can support two primary reactors and has a built-in self-repair protocol that allows it to repair its hull to full conditions as soon as it reaches critical damage for the first time. The "Colossus" portion makes up the inner layer of the station. It seems the fallen empire decided to strip down the original design and only utilized the Colossus Section for their world-altering weapons.\n\nThis does not make a lot of sense...why would the fallen precursors decide to give us this schematics? Perhaps they think that we won't be able to build such a massive vessel? Is there a hidden exhaust port somewhere that may blow up the ship in one hit? We can only guess."
 
 tech_acot_precursor_herculean_regain: "Another Legacy, Another Herculean"
 tech_acot_precursor_herculean_regain_desc: "We have reason to be concerned that a single Herculean may not be enough to carry out our legacy. Or that some of our people may think it's cooler and better to have another of them. But each Herculean must be crafted with extensive care, in a way that should one be compromised, another won't suffer the same fate."
@@ -1745,7 +1745,7 @@ acot_precursor_citadel_site_DESC: "This assembly portal will transform into a Pr
 acot_precursor_citadel_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into a Precursor Starbase."
 
 acot_precursor_citadel_base: "Precursor Fortress"
-acot_precursor_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precusor starbase."
+acot_precursor_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precursor starbase."
 acot_precursor_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Precursor Fortress will function as a very powerful starbase with an impressive arsenal of weapons and can be upgraded even further."
 
 #### SUPPORT MODULE #####
@@ -1827,7 +1827,7 @@ acot_precursor_sigma_citadel_site_DESC: "This assembly portal will transform int
 acot_precursor_sigma_citadel_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into a Precursor Starbase."
 
 acot_precursor_sigma_citadel_base: "Sigma Fortress"
-acot_precursor_sigma_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precusor starbase."
+acot_precursor_sigma_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precursor starbase."
 acot_precursor_sigma_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Sigma Fortress will function as a very powerful starbase with an impressive arsenal of weapons and can be upgraded even further."
 
 #### SUPPORT MODULE #####
@@ -1901,7 +1901,7 @@ acot_precursor_phanon_citadel_site_DESC: "This assembly portal will transform in
 acot_precursor_phanon_citadel_site_MEGASTRUCTURE_DETAILS: "This assembly portal will transform into a Precursor Starbase."
 
 acot_precursor_phanon_citadel_base: "Runic Fortress"
-acot_precursor_phanon_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precusor starbase."
+acot_precursor_phanon_citadel_base_DESC: "Once fully completed, the Precursor Fortress will replace the existing starbase and will function as a fully operational precursor starbase."
 acot_precursor_phanon_citadel_base_MEGASTRUCTURE_DETAILS: "At its completion, the Runic Fortress will function as a very powerful starbase with impressive arsenal of weapons and can be upgraded even further."
 
 #### SUPPORT MODULE #####
@@ -2123,19 +2123,19 @@ tech_precursor_gateway_desc: "Commander Artosis can be defeated by excessive use
 
 acot_precursor_science_nexus_portal: "Precursor Studium Portal"
 acot_precursor_science_nexus_portal_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
-acot_precursor_science_nexus_portal_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+acot_precursor_science_nexus_portal_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientific resources."
 
 acot_precursor_science_nexus_stage_one: "Precursor Studium"
 acot_precursor_science_nexus_stage_one_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
-acot_precursor_science_nexus_stage_one_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+acot_precursor_science_nexus_stage_one_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientific resources."
 
 acot_precursor_science_nexus_stage_two: "Precursor Greater Studium"
 acot_precursor_science_nexus_stage_two_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
-acot_precursor_science_nexus_stage_two_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+acot_precursor_science_nexus_stage_two_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientific resources."
 
 acot_precursor_science_nexus_stage_three: "Precursor Master Studium"
 acot_precursor_science_nexus_stage_three_DESC: "Though the age of discovery has long since passed, the Fallen Empires keep this enduring wonder as a monument of their past glory. Perhaps one day the massive super computers and artificial dimension generators inside could be put to use again?"
-acot_precursor_science_nexus_stage_three_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientic resources."
+acot_precursor_science_nexus_stage_three_MEGASTRUCTURE_DETAILS: "The Studium provides research speed and scientific resources."
 
 tech_precursor_nexus: "Garyx Stuffs - The Science"
 tech_precursor_nexus_desc: "Blueprints secretly acquired from Techmaster Garyx, He Who Make Stuffs."
@@ -2306,7 +2306,7 @@ acot_oracle_stasis_key: "§EActivating Stasis Field§!"
 acot_oracle_stasis_fail_condition: "§RNo hostile fleets that can be put under stasis.§!"
 
 decision_acot_emissary_landing: "Land the Emissary"
-decision_acot_emissary_landing_desc: "Orders the orbitting Emissary to land on the planet. If the planet is currently uncolonized, it will be colonized immediately with all the buildings equipped in its module. If the planet is hostile, the Emissary will land and begin planetary invasion."
+decision_acot_emissary_landing_desc: "Orders the orbiting Emissary to land on the planet. If the planet is currently uncolonized, it will be colonized immediately with all the buildings equipped in its module. If the planet is hostile, the Emissary will land and begin planetary invasion."
 acot_requires_emissary_orbit: "§RMust have an Emissary in orbit.§!"
 
 ################################### Celestial Forger ###################################

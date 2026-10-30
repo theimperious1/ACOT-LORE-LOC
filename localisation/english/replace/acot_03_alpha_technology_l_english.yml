@@ -232,17 +232,17 @@ tech_swarmer_missile_ae_desc: "A slight adjustment to the Delta variant of the S
 SMALL_ACOT_CCM_AE: "Alpha CMM"
 MEDIUM_ACOT_CCM_AE: "Alpha CMM"
 ACOT_CCM_PD_AE: "Alpha CMM"
-ACOT_CCM_PD_AE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_PD_AE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 ACOT_CCM_AE: "Alpha CMM"
-ACOT_CCM_AE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_AE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 SMALL_ACOT_CCM_MUTATION_AE: "Alpha CMM"
 MEDIUM_ACOT_CCM_MUTATION_AE: "Alpha CMM"
 LARGE_ACOT_CCM_MUTATION_AE: "Alpha CMM"
 XL_ACOT_CCM_MUTATION_AE: "Alpha CMM"
 ACOT_CCM_MUTATION_AE: "Alpha CMM"
-ACOT_CCM_MUTATION_AE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_MUTATION_AE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 tech_ccm_ae: "Alpha CMM"
-tech_ccm_ae_desc: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+tech_ccm_ae_desc: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 
 ACOT_MISSILE_BARRAGE_AE: "Alpha Missile Barrage System"
 ACOT_MISSILE_BARRAGE_AE_DESC: "Deadly long-range rocket systems launched from a quad-launcher that sacrifices tracking capabilities for increased firepower."
@@ -548,7 +548,7 @@ AE_NAVY_ENGINEER_OFFICER_TOOLTIP: "§YRapid Salvage:§! After the ship with this
 
 AE_NAVY_COMMMISSAR_OFFICER: "Navy Commissar Office"
 AE_NAVY_COMMMISSAR_OFFICER_UTILITY: "Navy Commissar Office"
-AE_NAVY_COMMMISSAR_OFFICER_DESC: "An office dedicated for the Navy Commissars to work their discpline magic on the crew. Under their supervision, no one will retreat before the order is given by high command."
+AE_NAVY_COMMMISSAR_OFFICER_DESC: "An office dedicated for the Navy Commissars to work their discipline magic on the crew. Under their supervision, no one will retreat before the order is given by high command."
 tech_navy_commissar: "Fleet Commissar Inspection"
 tech_navy_commissar_desc: "Our fleet admirals must reflect our superior ship designs. We shall train special commissars and assign them to our fleets. We will not show weakness or cowardice in the face of the enemies! Our ships will not falter against our foes."
 AE_NAVY_COMMMISSAR_OFFICER_TOOLTIP: "§YRelentless:§! After the ship with this component scores a kill, it gains additional §G25%§! fire rate increase for 30 days.\n\n§YTo the Last:§! The Navy Commissar grants additional §G25%§! fire rate increase of the empire is Militarist." 
@@ -559,7 +559,7 @@ AE_PRIEST_OFFICER: "Void Priest Meditation Room"
 AE_PRIEST_OFFICER_UTILITY: "Void Priest Meditation Room"
 AE_PRIEST_OFFICER_DESC: "Void Priests strengthen the resolves of the ships they are assigned to, granting them increased precision in both combat and FTL systems."
 tech_onboard_priest: "Priesthood of the Void"
-tech_onboard_priest_desc: "Although some within the navy are men and women of Faith, we have yet to organize a proper sect of religious figures to serve directly aboard the ships. With some fundiings and training, we can create a powerful addition to our navy by assigning priests to serve aboard the navy."
+tech_onboard_priest_desc: "Although some within the navy are men and women of Faith, we have yet to organize a proper sect of religious figures to serve directly aboard the ships. With some funding and training, we can create a powerful addition to our navy by assigning priests to serve aboard the navy."
 AE_PRIEST_OFFICER_TOOLTIP: "§YFaith in the Church:§! All the bonus modifiers of this component is doubled so long as the empire remains dedicated to spiritualism.\n\n§YAvenger:§! When a ship with this component is destroyed, every other ship with this component gains §G15%§! damage bonus for 30 days. This effect is doubled to ships with this component. Only works if the empire is Spiritualist."
 
 ################# 
@@ -629,11 +629,11 @@ TECH_UNLOCK_ACOT_SHIELD_BOOSTER_AE_TITLE: "§HUnlocks Components:§! $ACOT_SHIEL
 TECH_UNLOCK_ACOT_SHIELD_BOOSTER_AE_DESC: "$ACOT_SHIELD_BOOSTER_AE_DESC$"
  
 ACOT_ARMOR_BOOSTER_AE: "Alpha Enhanced Kinetic Barriers"
-ACOT_ARMOR_BOOSTER_AE_DESC: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+ACOT_ARMOR_BOOSTER_AE_DESC: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absorption ability as well as providing hardening effects."
 ACOT_ARMOR_BOOSTER_AURA_AE: "Alpha Kinetic Barrier Swarm"
 ACOT_ARMOR_BOOSTER_AURA_AE_DESC: "Specialized variant of the Kinetic Barrier Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
 tech_darkmatter_armor_supercharger_ae: "Alpha Enhanced Kinetic Barriers"
-tech_darkmatter_armor_supercharger_ae_desc: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+tech_darkmatter_armor_supercharger_ae_desc: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absorption ability as well as providing hardening effects."
 TECH_UNLOCK_ACOT_ARMOR_BOOSTER_AE_TITLE: "§HUnlocks Components:§! $ACOT_ARMOR_BOOSTER_AE$"
 TECH_UNLOCK_ACOT_ARMOR_BOOSTER_AE_DESC: "$ACOT_ARMOR_BOOSTER_AE_DESC$"
  
@@ -672,9 +672,9 @@ TECH_UNLOCK_ENIG_DRIVE_AE_DESC: "§HAlpha Translocator Drive§!\n$ENIGMATIC_DRIV
 #####WEAPON CORES###
  
 ACOT_WEAPON_CORE_AE: "Hypermixed Weapon Calibrator"
-ACOT_WEAPON_CORE_AE_DESC: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+ACOT_WEAPON_CORE_AE_DESC: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 tech_weapon_core_ae: "Hypermixed Weapon Calibrator"
-tech_weapon_core_ae_desc: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+tech_weapon_core_ae_desc: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 
 ACOT_WEAPON_EXPLOSIVE_CORE_AE: "High-Explosive Missile Payloads"
 ACOT_WEAPON_EXPLOSIVE_CORE_AE_DESC: "All standard-issued missile weapon systems can be enhanced with a dedicated auxiliary system to further improve their firepower."
@@ -697,13 +697,13 @@ tech_fighter_core_ae: "High-Performance Hangar Support"
 tech_fighter_core_ae_desc: "Upgrading conventional Hangar with a dedicated High-Performance Maintenance Auxiliary will greatly improve the Carrier's ability to manage and maintain its strikecrafts in battle."
  
 tech_darkmatter_stealth_generator_ae: "Alpha Stealth Generator"
-tech_darkmatter_stealth_generator_ae_desc: "Better stealth technologies lead to many new interesting strategems. Soon, we will able to devise cloaking mechanism that is useful beyond immediate surprise attack."
+tech_darkmatter_stealth_generator_ae_desc: "Better stealth technologies lead to many new interesting stratagems. Soon, we will able to devise cloaking mechanism that is useful beyond immediate surprise attack."
 tech_darkmatter_stealth_dimensional: "Dimensional Phasing"
-tech_darkmatter_stealth_dimensional_desc: "Relative to the new stealth technology is the dimensional phasing. A new method of cloaking which involves phasing the ship outside of real space into a pocket dimension, making the ships almost impossible to detect save for the strongest detection. This comes with a drawback, as phasing requiires the ship to be intangible form, where armor and even hull may not be reliant upon."
+tech_darkmatter_stealth_dimensional_desc: "Relative to the new stealth technology is the dimensional phasing. A new method of cloaking which involves phasing the ship outside of real space into a pocket dimension, making the ships almost impossible to detect save for the strongest detection. This comes with a drawback, as phasing requires the ship to be intangible form, where armor and even hull may not be reliant upon."
 
 
 ACOT_CLOAKING_LIGHT_AE_TOOLTIP: "§ELight Stealth Generator has no shield penalty while engaged but offers limited cloaking capability.§!\n\n"
-ACOT_CLOAKING_HEAVY_AE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R80%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifer auxiliary components of at least Delta Tier are equipped.§!\n\n"
+ACOT_CLOAKING_HEAVY_AE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R80%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifier auxiliary components of at least Delta Tier are equipped.§!\n\n"
 
 ACOT_CLOAKING_LIGHT_AE: "Alpha Light Stealth Generator"
 ACOT_CLOAKING_LIGHT_AE_DESC: "Alpha Light Stealth Generator"

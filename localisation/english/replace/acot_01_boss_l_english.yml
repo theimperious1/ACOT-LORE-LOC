@@ -158,9 +158,9 @@ ALPHA_ACOT_PRECURSOR_FORGE_KEY: "Forge Key"
 ###FOOD EXTRACTION EVENT
 acot_boss_forge.2.name: "Food Supply Abduction"
 acot_boss_forge.2.desc.unknown: "The detected mysterious fleet has entered orbit of [Root.GetName]. The large circular-shaped ship then begins to abduct food supplies from the planet much to the shock and amazement of the local denizens.\n\nHowever, we seem to also be getting reports that the planet's energy and alloys production have seen sizable increases in efficiency.\n\nWe do not know the purpose of this odd behavior from the massive fleet, but there is no sign of hostility and no harm has come to the local populace. We should attempt to find ways to communicate with the fleet as soon as possible."
-acot_boss_forge.2.desc.unknown_repeat: "Once again, The mysterious fleet has reached another of our planet, this time on [Root.GetName]. Reports are similar to the previous incident. Food supplies are being abducted, energy and alloy productions boosted\n\nScience team strongly suggest we find ways to communicate with the fleet as soon as possible before any unforseen consequences occur."
+acot_boss_forge.2.desc.unknown_repeat: "Once again, The mysterious fleet has reached another of our planet, this time on [Root.GetName]. Reports are similar to the previous incident. Food supplies are being abducted, energy and alloy productions boosted\n\nScience team strongly suggest we find ways to communicate with the fleet as soon as possible before any unforeseen consequences occur."
 acot_boss_forge.2.desc.known: "The Lost Armada has entered orbit of [Root.GetName] and begins harvesting food supplies. The fleet honors the bargain by providing us with increased energy and alloys productivity."
-acot_boss_forge.2.desc.known_repeat: "Once again, The Lost Armada has reached another of our planet, this time on [Root.GetName]. Reports are similar to the previous incident. Food supplies are being abducted, energy and alloy productions boosted. Scientists can only specualte how long has they been doing this."
+acot_boss_forge.2.desc.known_repeat: "Once again, The Lost Armada has reached another of our planet, this time on [Root.GetName]. Reports are similar to the previous incident. Food supplies are being abducted, energy and alloy productions boosted. Scientists can only speculate how long has they been doing this."
 acot_boss_forge.2.a: "Intriguing."
 acot_boss_forge.2.a.phobe: "These foolish alien machines cannot be trusted."
 acot_boss_forge.2.a.material: "How interesting. Our fleets can learn much from their designs."
@@ -194,8 +194,8 @@ acot_forge_fleet_in_orbit_phobe: "Uninvited Guest"
 acot_forge_fleet_in_orbit_phobe_desc: "These stupid annoying alien fleet is harvesting our crops without our full consent. The colonists are not too pleased that their foods are being sucked out by these uninvited guests."
 acot_forge_fleet_in_orbit_material: "Mysterious Automaton"
 acot_forge_fleet_in_orbit_material_desc: "The mysterious operations by the Precursor Fleets have attracted many inquisitive minds to document the events, resulting in slight boon in scientific studies."
-acot_forge_fleet_in_orbit_spirit: "Souless Invaders"
-acot_forge_fleet_in_orbit_spirit_desc: "These souless machines pretend to be that which they can never become. Their perversions of nature have caused the colonists to unite together in preparations for inevitable curses."
+acot_forge_fleet_in_orbit_spirit: "Soulless Invaders"
+acot_forge_fleet_in_orbit_spirit_desc: "These soulless machines pretend to be that which they can never become. Their perversions of nature have caused the colonists to unite together in preparations for inevitable curses."
 
 ############ SIGMA WEAPON  #######################
 

@@ -45,7 +45,7 @@ sm_acot_sb_phanon_assembly_desc: "Supercomputers designed to mimic the Phanon Co
 acot_sb_phanon_assembly_tooltip: "§YAllows construction of Phanon ships.§!"
 
 tech_enable_phanon_design: "Phanon Logic Declassification"
-tech_enable_phanon_design_desc: "By default, only the master comtrol terminal on the Phanon Primary Orbital Station contains the required security pass to build and design Phanon warships, but with some defragmentations and signal modification, it may be possible to also enable other starbases to build Phanon Ships as well, it may even lead to some new interesting data later on."
+tech_enable_phanon_design_desc: "By default, only the master control terminal on the Phanon Primary Orbital Station contains the required security pass to build and design Phanon warships, but with some defragmentations and signal modification, it may be possible to also enable other starbases to build Phanon Ships as well, it may even lead to some new interesting data later on."
 TECH_UNLOCK_PHANON_BUILD_TITLE: "Phanon Logic Declassification"
 TECH_UNLOCK_PHANON_BUILD_DESC: "Unlocks a special starbase building that enable construction of Phanon Ships."
 
@@ -113,7 +113,7 @@ acot_star_fighters_cap: "Star Chaser Squadron"
 acot_star_fighters_cap_plural: "Star Chaser Squadrons"
 
 tech_phanon_fighter: "Corps ISC Access Code"
-tech_phanon_fighter_desc: "Phanon Strikecraft Squadron equipped with independant FTL. They appears to be using neural networks to pilot. The Corps use them in place of smaller picket ships." 
+tech_phanon_fighter_desc: "Phanon Strikecraft Squadron equipped with independent FTL. They appears to be using neural networks to pilot. The Corps use them in place of smaller picket ships." 
 
 ACOT_PHANON_STARFIGHTERS_TEAM_1: "Formation One"
 ACOT_PHANON_STARFIGHTERS_TEAM_2: "Formation Two"
@@ -419,9 +419,9 @@ tech_energy_torpedo_pe_desc: "The substance used to trigger the detonation of th
 
 ACOT_ENERGY_TORPEDO_RE: "Runic Energy Torpedo"
 ACOT_ENERGY_TORPEDO_MEDIUM_RE: "Runic Energy Torpedo"
-ACOT_ENERGY_TORPEDO_RE_DESC: "It seems like these energy torpedoe contains some kind of psionic energy, but it is filled with malice and pain. So much so that it seems to reject its own psionic properties. Or perhaps the Corp's technology transform it into a different kind?"
+ACOT_ENERGY_TORPEDO_RE_DESC: "It seems like these energy torpedo contains some kind of psionic energy, but it is filled with malice and pain. So much so that it seems to reject its own psionic properties. Or perhaps the Corp's technology transform it into a different kind?"
 tech_energy_torpedo_re: "Runic Energy Torpedo"
-tech_energy_torpedo_re_desc: "It seems like these energy torpedoe contains some kind of psionic energy, but it is filled with malice and pain. So much so that it seems to reject its own psionic properties. Or perhaps the Corp's technology transform it into a different kind?"
+tech_energy_torpedo_re_desc: "It seems like these energy torpedo contains some kind of psionic energy, but it is filled with malice and pain. So much so that it seems to reject its own psionic properties. Or perhaps the Corp's technology transform it into a different kind?"
 ############
 ACOT_POINT_DEFENSE_PD_PE: "Phi PDS"
 ACOT_POINT_DEFENSE_PD_PE_DESC: "These Point-Defenses seem to rely on some sort of precognitive systems as well as signs of temporal manipulation to increase their performance, but one we have yet to fully understand."
@@ -556,34 +556,34 @@ tech_torpedo_re_desc: "It appears that these missiles are guided by some kind of
 
 ############
 ACOT_CCM_PD_PE: "Phi CMM"
-ACOT_CCM_PD_PE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_PD_PE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 ACOT_CCM_PE: "Phi CMM"
 SMALL_ACOT_CCM_PE: "Phi CMM"
 MEDIUM_ACOT_CCM_PE: "Phi CMM"
-ACOT_CCM_PE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_PE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 SMALL_ACOT_CCM_MUTATION_PE: "Phi CMM"
 MEDIUM_ACOT_CCM_MUTATION_PE: "Phi CMM"
 LARGE_ACOT_CCM_MUTATION_PE: "Phi CMM"
 XL_ACOT_CCM_MUTATION_PE: "Phi CMM"
 ACOT_CCM_MUTATION_PE: "Phi CMM"
-ACOT_CCM_MUTATION_PE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_MUTATION_PE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 tech_ccm_pe: "Phi CMM"
-tech_ccm_pe_desc: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+tech_ccm_pe_desc: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 
 ACOT_CCM_PD_RE: "Runic CMM"
-ACOT_CCM_PD_RE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_PD_RE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 ACOT_CCM_RE: "Runic CMM"
 SMALL_ACOT_CCM_RE: "Runic CMM"
 MEDIUM_ACOT_CCM_RE: "Runic CMM"
-ACOT_CCM_RE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_RE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 SMALL_ACOT_CCM_MUTATION_RE: "Runic CMM"
 MEDIUM_ACOT_CCM_MUTATION_RE: "Runic CMM"
 LARGE_ACOT_CCM_MUTATION_RE: "Runic CMM"
 XL_ACOT_CCM_MUTATION_RE: "Runic CMM"
 ACOT_CCM_MUTATION_RE: "Runic CMM"
-ACOT_CCM_MUTATION_RE_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_MUTATION_RE_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 tech_ccm_re: "Runic CMM"
-tech_ccm_re_desc: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+tech_ccm_re_desc: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 
 ############
 ACOT_MISSILE_BARRAGE_PE: "Phi Barrage System"
@@ -917,14 +917,14 @@ TECH_UNLOCK_ENIG_DRIVE_RE_DESC: "§HRunic Translocator Drive§!\n$ENIGMATIC_DRIV
 
 ############
 ACOT_WEAPON_CORE_PE: "Phi Hypermixed Weapon Calibrator"
-ACOT_WEAPON_CORE_PE_DESC: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+ACOT_WEAPON_CORE_PE_DESC: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 tech_weapon_core_pe: "Phi Hypermixed Weapon Calibrator"
-tech_weapon_core_pe_desc: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+tech_weapon_core_pe_desc: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 
 ACOT_WEAPON_CORE_RE: "Runic Hypermixed Weapon Calibrator"
-ACOT_WEAPON_CORE_RE_DESC: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+ACOT_WEAPON_CORE_RE_DESC: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 tech_weapon_core_re: "Runic Hypermixed Weapon Calibrator"
-tech_weapon_core_re_desc: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+tech_weapon_core_re_desc: "Using other strategic resources in tandem can create a rather unorthodox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
 ############
 ACOT_WEAPON_EXPLOSIVE_CORE_PE: "Phi Explosive Core"
 ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC: "Phi Explosive Core"
@@ -1190,10 +1190,10 @@ tech_precursor_phanon_design_pe_3_desc: "With all the data and fragments gathere
 
 
 tech_darkmatter_stealth_generator_re: "Runic Stealth Generator"
-tech_darkmatter_stealth_generator_re_desc: "Better stealth technologies lead to many new interesting strategems. Soon, we will able to devise cloaking mechanism that is useful beyond immediate surprise attack."
+tech_darkmatter_stealth_generator_re_desc: "Better stealth technologies lead to many new interesting stratagems. Soon, we will able to devise cloaking mechanism that is useful beyond immediate surprise attack."
 
 ACOT_CLOAKING_LIGHT_RE_TOOLTIP: "§ELight Stealth Generator has no shield penalty while engaged but offers limited cloaking capability.§!\n\n"
-ACOT_CLOAKING_HEAVY_RE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R60%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifer auxiliary components of at least Delta Tier are equipped.§!\n\n"
+ACOT_CLOAKING_HEAVY_RE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R60%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifier auxiliary components of at least Delta Tier are equipped.§!\n\n"
 
 ACOT_CLOAKING_LIGHT_RE: "Runic Light Stealth Generator"
 ACOT_CLOAKING_LIGHT_RE_DESC: "Runic Light Stealth Generator"
@@ -1215,7 +1215,7 @@ acot_phanon_master_reactor_sphere_DESC: "Massive Spacecraft that appears to hous
  
 district_acot_phanon_main: "Phanon Vault Primary Module"
 district_acot_phanon_main_plural: "Phanon Vault Primary Module"
-district_acot_phanon_main_desc: "Primary Module is the default configuration for the Vault's interiors, as they are meant to project the operations of a glactic PMC, it is filled with various trade hubs, living quarters, and various propaganda and patriotic campaign centers."
+district_acot_phanon_main_desc: "Primary Module is the default configuration for the Vault's interiors, as they are meant to project the operations of a galactic PMC, it is filled with various trade hubs, living quarters, and various propaganda and patriotic campaign centers."
  
 district_acot_phanon_a: "Phanon Vault A-Zone Module"
 district_acot_phanon_a_plural: "Phanon Vault A-Zone Module"
@@ -1299,11 +1299,11 @@ tech_phanon_army_desc: "These "Dutymen" as the Phanon Corps call them appears to
 
 acot_phanon_army: "Phanon Dutyman Trooper"
 acot_phanon_army_plural: "Phanon Dutyman Troopers"
-acot_phanon_army_desc: "Genetically-enhanced supersoldier clone armies based off the Corp's mysterious template. They have been modified to respond to our command only and are argubly superior to most standard infantry. They are still capable of feeling basic emotion though, namely they can still be affected by morale and will rout against superior enemy forces. The Troopers wear heavy armor and are quite versatile, with no obvious exploitable weaknesses."
+acot_phanon_army_desc: "Genetically-enhanced supersoldier clone armies based off the Corp's mysterious template. They have been modified to respond to our command only and are arguably superior to most standard infantry. They are still capable of feeling basic emotion though, namely they can still be affected by morale and will rout against superior enemy forces. The Troopers wear heavy armor and are quite versatile, with no obvious exploitable weaknesses."
  
 acot_phanon_army_sniper: "Phanon Dutyman Sniper"
 acot_phanon_army_sniper_plural: "Phanon Dutyman Snipers"
-acot_phanon_army_sniper_desc: "Genetically-enhanced supersoldier clone armies based off the Corp's mysterious template. They have been modified to respond to our command only and are argubly superior to most standard infantry. They are still capable of feeling basic emotion though, namely they can still be affected by morale and will rout against superior enemy forces. The Snipers have lighter protection, but excel at picking out enemy troops and drain their morale with their superior marksmanship, making them excellet against standard infantry forces."
+acot_phanon_army_sniper_desc: "Genetically-enhanced supersoldier clone armies based off the Corp's mysterious template. They have been modified to respond to our command only and are arguably superior to most standard infantry. They are still capable of feeling basic emotion though, namely they can still be affected by morale and will rout against superior enemy forces. The Snipers have lighter protection, but excel at picking out enemy troops and drain their morale with their superior marksmanship, making them excellent against standard infantry forces."
 
 tech_phanon_army_elite: "Phanon Elite Dutymen Access Codes"
 tech_phanon_army_elite_desc: "More access codes have been uncovered from deep within the Vault. These codes should enable us to acquire heavier and more powerful variants of the Dutymen intended for greater destructive capabilities."
@@ -1314,7 +1314,7 @@ acot_phanon_elite_desc: "The Elites have superior armor and weaponry compared to
 
 acot_phanon_tank: "Phanon Patriot Tank"
 acot_phanon_tank_plural: "Phanon Patriot Tank"
-acot_phanon_tank_desc: "A pecular shaped tank that combines the strength of both traditional tank chassis design with some elements from walker-based designs. Their destructive capabilities are far too great, which may explain why they're never deployed in the defense of the Vault itself. Uses three Phanon Genetic Codes."
+acot_phanon_tank_desc: "A peculiar shaped tank that combines the strength of both traditional tank chassis design with some elements from walker-based designs. Their destructive capabilities are far too great, which may explain why they're never deployed in the defense of the Vault itself. Uses three Phanon Genetic Codes."
 
 tech_phanon_army_repeatable: "Phanon Dutyman Resupply"
 tech_phanon_army_repeatable_desc: "We have nearly exhausted our numbers of the Phanon Dutymen Clones, and if we wish to acquire more, we'll need to work our ways to study their genetic codes and get the stocks back up."
@@ -1338,14 +1338,14 @@ tech_phanon_attack_dog_repeatable_desc: "We have nearly exhausted our numbers of
 
 acot_phanon_operative: "Phanon Field Operative Type A"
 acot_phanon_operative_plural: "Field Operatives Type A"
-acot_phanon_operative_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assasination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nType A Operatives excel at surgical strikes, sabotage and psycological warfare. They typically use non-destructive weapons to achieve their goals."
+acot_phanon_operative_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assassination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nType A Operatives excel at surgical strikes, sabotage and psychological warfare. They typically use non-destructive weapons to achieve their goals."
  
 acot_phanon_operative_type_b: "Phanon Field Operative Type B"
 acot_phanon_operative_type_b_plural: "Field Operatives Type B"
-acot_phanon_operative_type_b_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assasination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nType B Operatives excel at frontal assault, area-wide damage and destruction focus, making them excellent against machines or battles were collateral damage is not a concern."
+acot_phanon_operative_type_b_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assassination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nType B Operatives excel at frontal assault, area-wide damage and destruction focus, making them excellent against machines or battles were collateral damage is not a concern."
 
 tech_phanon_operative: "Phanon Field Operative Study"
-tech_phanon_operative_desc: "Perhaps one of the most mysterious yet frighteningly powerful secret of the Corps's army, the Field Operatives act as final defenses against any intruders. They appear to possess both biological and mechanical components in nature, but perhaps the most noticable feature is their elaborate fashion-over-form design. Each Operative have custom-made attires and are visually quite distinct from one another, suggesting that they may also serve in various other duties beyond combat.\n\nRegardless of the design, they are still extremely deadly combatant, and the appearance they hold deceptively hide the many arsenals in their disposal and the attires they wear are surprsingly durable, its material even stronger than some vehicle's armors yet still very light in weight. Cracking the codes will be difficult and there's only three Operatives left within the Vault."
+tech_phanon_operative_desc: "Perhaps one of the most mysterious yet frighteningly powerful secret of the Corps's army, the Field Operatives act as final defenses against any intruders. They appear to possess both biological and mechanical components in nature, but perhaps the most noticeable feature is their elaborate fashion-over-form design. Each Operative have custom-made attires and are visually quite distinct from one another, suggesting that they may also serve in various other duties beyond combat.\n\nRegardless of the design, they are still extremely deadly combatant, and the appearance they hold deceptively hide the many arsenals in their disposal and the attires they wear are surprisingly durable, its material even stronger than some vehicle's armors yet still very light in weight. Cracking the codes will be difficult and there's only three Operatives left within the Vault."
  
 tech_phanon_operative_repeatable: "Phanon Operative Reconstruction"
 tech_phanon_operative_repeatable_desc: "With no Operatives left for us to activate, the only way to acquire more is to study from the data and attempt to create a new template. This will not be an easy task, as the built-in security system will make our tasks harder with every attempt to reconstruct the genetic templates."
@@ -1403,7 +1403,7 @@ acot_phanon_defense_trap_desc: "<Beep> <Beep> <Beep> <Beep> <Beep> <Beep> <BOOOO
  
 acot_phanon_defense_operative: "Phanon Field Operative"
 acot_phanon_defense_operative_plural: "Phanon Field Operatives"
-acot_phanon_defense_operative_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assasination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nField Operative Team are deployed from their own personal FTL-capabled strikecraft. In the events that they have failed in their assign tasks, they may be able to retreat to their personal craft."
+acot_phanon_defense_operative_desc: "Deployed in pairs, Phanon Field Operatives are possibly one of the strongest fighting force on the field, able to answer to almost any kind of situation and perform various stratagem from direct combat, sabotage, stealth, assassination or even seduction. Field Operatives are, unlike most of the Corps's forces, custom-built with varying personality, identity and appearances. Yet are all equally deadly.\n\nField Operative Team are deployed from their own personal FTL-capabled strikecraft. In the events that they have failed in their assign tasks, they may be able to retreat to their personal craft."
  
 acot.sophia.dating_sim.title: "The Moment of Darkness"
 acot.sophia.dating_sim.desc: "SOPHIA, can I transform you into a body pillow?"

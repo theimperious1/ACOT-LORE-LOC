@@ -34,16 +34,16 @@ ACOT_SA_OVERCHARGED_DEFENSE: "Ackbar Defense Amplifier"
 ACOT_SA_OVERCHARGED_DEFENSE_DESC: "Equips the ship with extra redundant generators for kinetic barriers and shields. While these extra generators cause a strain to weapon systems, the ship is sure to never be caught in any kind of trap."
 
 ACOT_SA_SUPER_TARGETER: "Target Adjuster"
-ACOT_SA_SUPER_TARGETER_DESC: "Privde extra calibrations to target resolution matices to ensure confirm hit on enemy targets. The system requires extra time to calculate optimal trajectory and compensation against target's mobility, so the weapon fire rate will be reduced."
+ACOT_SA_SUPER_TARGETER_DESC: "Provide extra calibrations to target resolution matrices to ensure confirm hit on enemy targets. The system requires extra time to calculate optimal trajectory and compensation against target's mobility, so the weapon fire rate will be reduced."
 
 ACOT_SA_SUPPLY_UNIT: "Independent Logistic Waypoint"
-ACOT_SA_SUPPLY_UNIT_DESC: "Secures the ship's logistics and monthy upkeep budget by adding an independent Logistic Waypoint so that materials and replacement units can be made directly."
+ACOT_SA_SUPPLY_UNIT_DESC: "Secures the ship's logistics and monthly upkeep budget by adding an independent Logistic Waypoint so that materials and replacement units can be made directly."
 
 ACOT_SA_POINT_DEFENSE_BUFF: "High Performance PDS"
 ACOT_SA_POINT_DEFENSE_BUFF_DESC: "Upgrades the ship's point defense system with extra specs for superior screening against missiles and strike crafts. The added extra power should also compensate for their lack of firepower."
 
 ACOT_SA_NANO_REPAIRER: "Nano-Repair Drones"
-ACOT_SA_NANO_REPAIRER_DESC: "Equips the ship with powerful nano-repair drones that will automatically repair the ship's hull, the system can easily adjust tolarger ship's higher hull strength."
+ACOT_SA_NANO_REPAIRER_DESC: "Equips the ship with powerful nano-repair drones that will automatically repair the ship's hull, the system can easily adjust to larger ship's higher hull strength."
 
 ACOT_SA_ELITE_INSIGNIA: "Elite Insignia Pattern"
 ACOT_SA_ELITE_INSIGNIA_DESC: "Upgrades the ship's performance and specs across the board to satisfy the empire's elite guards. Each Insignia denotes the level of competency, honor, and skill that demands proper respect from both allies and enemies. This is a ship made for the real men and women, or machines."
@@ -53,7 +53,7 @@ ACOT_SA_ELITE_INSIGNIA_DESC: "Upgrades the ship's performance and specs across t
 ############# ISC PILOTS
 
 acot_isc_pilot: "ISC Pilots"
-acot_isc_pilot_desc: "ISCs are typically toolarge and too sophisticated to be controlled via remote or neural network, so active pilots are required."
+acot_isc_pilot_desc: "ISCs are typically too large and too sophisticated to be controlled via remote or neural network, so active pilots are required."
 
 ACOT_ISC_PILOT_STANDARD: "ISC Wingmen"
 ACOT_ISC_PILOT_STANDARD_DESC: "Daring individuals who enjoy the fast and furious nature of the ISCs. Each must already be familiar with the standard neural network simulation."
@@ -159,23 +159,23 @@ ACOT_CREW_AUTOMATED_COMMAND: "USV Setup"
 ACOT_CREW_AUTOMATED_COMMAND_DESC: "Unmanned Space Vessels or USV is a type of crew setup where all the operations carried out within the ship are undertaken by various automated or remote controlled machines from active command centers. The lack of organic crews mean all food and energy upkeeps are effective replaced by minerals. Although this overall results in cheaper investment, the performance is noticeably worse."
 
 tech_acot_crew_solo: "Seat of Command"
-tech_acot_crew_solo_desc: "The SOCs are extremely advanced experimental neural network interface between crews and the ship's computers. The development of this system will revolutionize the ways starship crews are handled. Soon the days where ships must be givenlarge amount of crews will be things of the past, and ships can be managed by but a few selection of gifted individuals."
+tech_acot_crew_solo_desc: "The SOCs are extremely advanced experimental neural network interface between crews and the ship's computers. The development of this system will revolutionize the ways starship crews are handled. Soon the days where ships must be given large amount of crews will be things of the past, and ships can be managed by but a few selection of gifted individuals."
 
 TECH_UNLOCK_SOLO_CREW_TITLE: "§HUnlocks:§! Seat of Command"
-TECH_UNLOCK_SOLO_CREW_DESC: "§HSeat of Command§!\nThe SOCs are extremely advanced experimental neural network interface between crews and the ship's computers. The development of this system will revolutionize the ways starship crews are handled. Soon the days where ships must be givenlarge amount of crews will be things of the past, and ships can be managed by but a few selection of gifted individuals."
+TECH_UNLOCK_SOLO_CREW_DESC: "§HSeat of Command§!\nThe SOCs are extremely advanced experimental neural network interface between crews and the ship's computers. The development of this system will revolutionize the ways starship crews are handled. Soon the days where ships must be given large amount of crews will be things of the past, and ships can be managed by but a few selection of gifted individuals."
 
 ACOT_CREW_SOLO: "SOC Setup"
-ACOT_CREW_SOLO_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 ACOT_CREW_SOLO_MEDIUM: "SOC Setup"
-ACOT_CREW_SOLO_MEDIUM_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_MEDIUM_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 ACOT_CREW_SOLO_LARGE: "SOC Setup"
-ACOT_CREW_SOLO_LARGE_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_LARGE_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 ACOT_CREW_SOLO_CAPITAL: "SOC Setup"
-ACOT_CREW_SOLO_CAPITAL_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_CAPITAL_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 ACOT_CREW_SOLO_FLAGSHIP: "SOC Setup"
-ACOT_CREW_SOLO_FLAGSHIP_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_FLAGSHIP_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 ACOT_CREW_SOLO_COMMAND: "SOC Setup"
-ACOT_CREW_SOLO_COMMAND_DESC: "Rather than relying onlarge amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
+ACOT_CREW_SOLO_COMMAND_DESC: "Rather than relying on large amount of crews, the ships could instead be installed with the Seat of Commands or SOC; a series of powerful neural interface between gifted individuals and the ship's primary computers. This allows the ship to be operated with very little crews. The SoC are very demanding however, and the operators must be trained from birth and enter services at very young age. The upkeep required will be immense, but the performance increase is undeniable."
 
 ################################################ COMMANDING OFFICER ################################################
 
@@ -306,7 +306,7 @@ station_large_aura_components: "Big Boi"
 
 #### ISC AURA
 
-acot_isc_aura: "ISC Inteference Matrix"
+acot_isc_aura: "ISC Interference Matrix"
 acot_isc_aura_desc: "ISC Interference Matrix"
 
 ACOT_ISC_AURA_EMPTY: "Auxiliary Generator"
@@ -321,7 +321,7 @@ ACOT_ISC_AURA_BUZZDROID_DESC: "Equips each ISC with a pack of Buzzdroids that wi
 acot_aura_isc_buzzdroid: "Buzzdroids"
 
 ACOT_ISC_AURA_TRACKING_JAMMER: "Targeting Interference Matrix"
-ACOT_ISC_AURA_TRACKING_JAMMER_DESC: "Equips each ISC with a short-ranged Inteference Matrix that will heavily disrupts enemy ship's ability to track and find targets.\n\n§YRadius§! : 30"
+ACOT_ISC_AURA_TRACKING_JAMMER_DESC: "Equips each ISC with a short-ranged Interference Matrix that will heavily disrupts enemy ship's ability to track and find targets.\n\n§YRadius§! : 30"
 acot_aura_isc_tracking_jammer: "Targeting Interference Matrix"
 
 ACOT_ISC_AURA_TRACTOR_FIELD: "Snaring Field"
@@ -348,12 +348,12 @@ ACOT_AURA_DPS_JAMMER_DESC: "A powerful invisible subspace field that reduces the
 acot_aura_dps_jammer: "Power Dampening Field"
 
 ACOT_AURA_TARGETING_JAMMER: "Targeting Jammer Systems"
-ACOT_AURA_TARGETING_JAMMER_DESC: "A powerful inteference matrix that reduces the effectiveness of enemy's targeting sensors.\n\n§YRadius§! : 100"
+ACOT_AURA_TARGETING_JAMMER_DESC: "A powerful interference matrix that reduces the effectiveness of enemy's targeting sensors.\n\n§YRadius§! : 100"
 acot_aura_targeting_jammer: "Targeting Jammer Systems"
 
-ACOT_AURA_MOBILITY_JAMMER: "Subspace Inteference Field"
+ACOT_AURA_MOBILITY_JAMMER: "Subspace Interference Field"
 ACOT_AURA_MOBILITY_JAMMER_DESC: "A powerful invisible subspace field that reduces the effectiveness of enemy's mobility.\n\n§YRadius§! : 100"
-acot_aura_mobility_jammer: "Subspace Inteference Field"
+acot_aura_mobility_jammer: "Subspace Interference Field"
 
 ACOT_AURA_FTL_JAMMER: "Gravity Well Generator"
 ACOT_AURA_FTL_JAMMER_DESC: "A powerful invisible subspace field that reduces the effectiveness of enemy's FTL systems.\n\n§YRadius§! : 200"
@@ -395,12 +395,12 @@ ACOT_AURA_DPS_JAMMER_FLAGSHIP_DESC: "A powerful invisible subspace field that re
 acot_aura_dps_jammer_flagship: "Advanced Power Dampening Field"
 
 ACOT_AURA_TARGETING_JAMMER_FLAGSHIP: "Advanced Targeting Jammer Systems"
-ACOT_AURA_TARGETING_JAMMER_FLAGSHIP_DESC: "A powerful inteference matrix that reduces the effectiveness of enemy's targeting sensors."
+ACOT_AURA_TARGETING_JAMMER_FLAGSHIP_DESC: "A powerful interference matrix that reduces the effectiveness of enemy's targeting sensors."
 acot_aura_targeting_jammer_flagship: "Advanced Targeting Jammer Systems"
 
-ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP: "Advanced Subspace Inteference Field"
+ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP: "Advanced Subspace Interference Field"
 ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP_DESC: "A powerful invisible subspace field that reduces the effectiveness of enemy's mobility."
-acot_aura_mobility_jammer_flagship: "Advanced Subspace Inteference Field"
+acot_aura_mobility_jammer_flagship: "Advanced Subspace Interference Field"
 
 ACOT_AURA_FTL_JAMMER_FLAGSHIP: "Advanced Gravity Well Generator"
 ACOT_AURA_FTL_JAMMER_FLAGSHIP_DESC: "A powerful invisible subspace field that reduces the effectiveness of enemy's FTL systems."
@@ -450,7 +450,7 @@ ACOT_AURA_UTILITY_UPKEEP_REDUCER_DESC: "This mobile waypoint teleporter enables 
 acot_aura_utility_upkeep_reducer: "Waypoint Logistics Node"
 
 ACOT_AURA_UTILITY_JUMP_COORDINATOR: "Jump Coordinator"
-ACOT_AURA_UTILITY_JUMP_COORDINATOR_DESC: "This module allows the flagship to act as a powerful reference network point for all ships to link to in order to achieve more effiicent jump."
+ACOT_AURA_UTILITY_JUMP_COORDINATOR_DESC: "This module allows the flagship to act as a powerful reference network point for all ships to link to in order to achieve more efficient jump."
 acot_aura_utility_jump_coordinator: "Jump Coordinator"
 
 ACOT_AURA_UTILITY_GAP_GENERATOR: "Mobile Gap Generator"

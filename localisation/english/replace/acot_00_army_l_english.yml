@@ -29,7 +29,7 @@ message_acot_hero_death_indie_machine: "The Paradox Engine has been destroyed! W
 message_acot_hero_death_default: "This is a black day! One of our heroes has fallen!" 
 
 MESSAGE_ACOT_PHANON_INJURED_DESC: "Phanon Operative Injured"
-message_acot_phanon_operative_injured: "The Phanon Operative Team has been defeated, but managed to retreat back aboard the Star Chaser. They must remain aboard for 1800 days to rejuvinate, but can otherwise still engage in space combat aboard their Star Invader." 
+message_acot_phanon_operative_injured: "The Phanon Operative Team has been defeated, but managed to retreat back aboard the Star Chaser. They must remain aboard for 1800 days to rejuvenate, but can otherwise still engage in space combat aboard their Star Invader." 
 MESSAGE_ACOT_PHANON_DEATH_DESC: "Phanon Operative Partially Killed"
 message_acot_phanon_operative_dead: "One of the Two's Phanon Operative has been killed. The other managed to escape back to the Star Invader, but must remain there and can no longer engage in ground battle. Furthermore, the loss of the partner has reduced the effectiveness of the Star Invader."
 MESSAGE_ACOT_PHANON_DESTROYED_DESC: "Phanon Operative Killed"
@@ -49,7 +49,7 @@ acot_steam_army_desc: "Introduction of firearms changes how battles are fought. 
 
 industrial_army: "Industrial Army"
 industrial_army_plural: "Industrial Armies"
-industrial_army_desc: "Industrial Army now have proper formation and somewhat established chain of command. They're on their way to discover the wonders, and perhaps, the horros of modern warfare. If only they know that their weapons and armors are still hilariously outclassed by modern weaponry."
+industrial_army_desc: "Industrial Army now have proper formation and somewhat established chain of command. They're on their way to discover the wonders, and perhaps, the horrors of modern warfare. If only they know that their weapons and armors are still hilariously outclassed by modern weaponry."
 
 postatomic_army: "Post-atomic Army"
 postatomic_army_plural: "Post-atomic Armies"
@@ -63,7 +63,7 @@ acot_early_space_army_desc: "Would you look at that? The armies from this primit
 #################################################### ARMY Tech ####################################################
 
 decision_acot_rebuild_piloted_vehicle: "Rebuild Vehicles"
-decision_acot_rebuild_piloted_vehicle_desc: "It'll not do for our valuable pilots to be left stranded on the battlefield without their toys. The replacement costs are negliable so we should always strife to make sure our boys and girls are always operating at peak performance."
+decision_acot_rebuild_piloted_vehicle_desc: "It'll not do for our valuable pilots to be left stranded on the battlefield without their toys. The replacement costs are negligible so we should always strife to make sure our boys and girls are always operating at peak performance."
 decision_acot_rebuild_piloted_vehicle_tooltip: "Rebuilds destroyed vehicles for any existing pilots on the planet. This action does not cost resources but take a small amount of time."
 
 decision_acot_repair_damaged_machine: "Repair Damaged Units"
@@ -82,17 +82,17 @@ decision_acot_repair_fortification: "Repair Fortification"
 decision_acot_repair_fortification_desc: "Repairs damaged wall, restoring and replacing any destroyed walls and batteries in the process. Repairing fortification is always faster and cheaper than rebuilding them from scratch."
 
 decision_acot_upgrade_fortification: "Defensive Wall"
-decision_acot_upgrade_fortification_desc: "Upgrades the colony's defense with extra reinforced walls. Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increaing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_desc: "Upgrades the colony's defense with extra reinforced walls. Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_1: "Reinforced Fortification Wall"
-acot_modifier_fortification_1_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_fortification_1_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 
 acot_modifier_damaged_fortification_1: "Damaged Fortification Walls"
 acot_modifier_damaged_fortification_1_desc: "These walls have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 
 acot_defensive_wall: "Reinforced Fortification Wall"
 acot_defensive_wall_plural: "Reinforced Fortification Walls"
-acot_defensive_wall_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_wall_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 acot_defensive_wall_dm: "Delta Fortification Wall"
 acot_defensive_wall_dm_plural: "Delta Fortification Walls"
 acot_defensive_wall_dm_desc: "$acot_defensive_wall_desc$"
@@ -105,17 +105,17 @@ acot_defensive_wall_se_desc: "$acot_defensive_wall_desc$"
 
 
 decision_acot_upgrade_fortification_2: "Defensive Batteries"
-decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with extra weapon batteries. These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increaing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with extra weapon batteries. These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_2: "Reinforced Fortification Batteries"
-acot_modifier_fortification_2_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_fortification_2_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 
 acot_modifier_damaged_fortification_2: "Damaged Fortification Batteries"
 acot_modifier_damaged_fortification_2_desc: "These batteries have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 
 acot_defensive_cannon: "Reinforced Fortification Batteries"
 acot_defensive_cannon_plural: "Reinforced Fortification Batteries"
-acot_defensive_cannon_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_cannon_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to thwart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
 acot_defensive_cannon_dm: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_plural: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_desc: "$acot_defensive_cannon_desc$"
@@ -273,15 +273,15 @@ acot_defense_robot_heavy_ae_desc: "Deadliest versions of Enforcer Droids with fu
 
 individual_machine_defense: "Defense Battle Form"
 individual_machine_defense_plural: "Defense Battle Forms"
-individual_machine_defense_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+individual_machine_defense_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilient than organic counterparts."
 
 acot_defense_individual_machine_dm: "Delta Defense Battle Form"
 acot_defense_individual_machine_dm_plural: "Delta Defense Battle Forms"
-acot_defense_individual_machine_dm_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_dm_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilient than organic counterparts."
 
 acot_defense_individual_machine_ae: "Alpha Defense Battle Form"
 acot_defense_individual_machine_ae_plural: "Alpha Defense Battle Forms"
-acot_defense_individual_machine_ae_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_ae_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilient than organic counterparts."
 
 acot_defense_individual_machine_light: "Guardian Battle Form"
 acot_defense_individual_machine_light_plural: "Guardian Battle Forms"
@@ -847,15 +847,15 @@ acot_army_mat_pilot_se_desc: "§YPilot Crew§!\nThese Devastator Tank crews mana
 
 acot_army_mat: "Devastator Tank Division"
 acot_army_mat_plural: "Devastator Tank Divisions"
-acot_army_mat_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess friengtening mobility for a vehicle of its size."
+acot_army_mat_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess frightening mobility for a vehicle of its size."
  
 acot_army_mat_se: "Sigma Devastator Tank Division"
 acot_army_mat_se_plural: "Sigma Devastator Tank Divisions"
-acot_army_mat_se_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess friengtening mobility for a vehicle of its size."
+acot_army_mat_se_desc: "§YCrewed Vehicle§! §YSmall Infantry Garrison§!\nA specialized variant of the Battle Tank design that is equipped with experimental blink pack as well as a short-ranged jump module. Devastator Tanks can strike from anywhere and possess frightening mobility for a vehicle of its size."
  
 
 tech_acot_army_mat: "Miniaturized Jump Module"
-tech_acot_army_mat_desc: "Although the MBTs used are considerably much more flexible and mobile than their old predecessors in the early 2100, they are still notably slower and harder to maneuver compared to infantry forces or Landcruisers. A breakthrough in nano-tech may allow us to create a more sophisticiated but powerful variant of the MBTs that can utilize blinking techniques and perhaps even dimensional jumping technique."
+tech_acot_army_mat_desc: "Although the MBTs used are considerably much more flexible and mobile than their old predecessors in the early 2100, they are still notably slower and harder to maneuver compared to infantry forces or Landcruisers. A breakthrough in nano-tech may allow us to create a more sophisticated but powerful variant of the MBTs that can utilize blinking techniques and perhaps even dimensional jumping technique."
  
 acot_army_mat_hero: "Martellus Landcruiser"
 acot_army_mat_hero_plural: "Martellus Landcruisers"
@@ -957,19 +957,19 @@ offspring_defense_desc: "Defender-castes are designed to guard the Hive from hos
 
 acot_hive_infantry_1: "Hive Predator"
 acot_hive_infantry_1_plural: "Hive Predators"
-acot_hive_infantry_1_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+acot_hive_infantry_1_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferocity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particularly those that do not fear the swarm."
 
 acot_hive_infantry_dm: "Delta Hive Predator"
 acot_hive_infantry_dm_plural: "Delta Hive Predators"
-acot_hive_infantry_dm_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+acot_hive_infantry_dm_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferocity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particularly those that do not fear the swarm."
 
 acot_hive_infantry_ae: "Alpha Hive Predator"
 acot_hive_infantry_ae_plural: "Alpha Hive Predators"
-acot_hive_infantry_ae_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+acot_hive_infantry_ae_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferocity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particularly those that do not fear the swarm."
 
 acot_hive_infantry_se: "Sigma Hive Predator"
 acot_hive_infantry_se_plural: "Sigma Hive Predators"
-acot_hive_infantry_se_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferecity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particualy those that do not fear the swarm."
+acot_hive_infantry_se_desc: "Predators are agile skirmishers that can make use of the Hive's various weapons and technologies. They are given basic level of instinct, learning how to take cover and engage when needed. Their ferocity will strike fear into lesser men's hearts, but their light exo-skeletons make them vulnerable to enemy fire, particularly those that do not fear the swarm."
 
 #########
 
@@ -1238,19 +1238,19 @@ acot_army_machine_cyborg_defense_heavy_ae_desc: "Cyborg Commanders are given str
 
 machine_assault_1: "Light Combat Unit"
 machine_assault_1_plural: "Light Combat Unit"
-machine_assault_1_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+machine_assault_1_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against competent organic soldiers."
 
 acot_army_machine_dm: "Delta Light Combat Unit"
 acot_army_machine_dm_plural: "Delta Light Combat Units"
-acot_army_machine_dm_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+acot_army_machine_dm_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against competent organic soldiers."
  
 acot_army_machine_ae: "Alpha Light Combat Unit"
 acot_army_machine_ae_plural: "Alpha Light Combat Units"
-acot_army_machine_ae_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+acot_army_machine_ae_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against competent organic soldiers."
  
 acot_army_machine_se: "Sigma Light Combat Unit"
 acot_army_machine_se_plural: "Sigma Light Combat Units"
-acot_army_machine_se_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against compoetent organic soldiers."
+acot_army_machine_se_desc: "Light Combat Units are retrofitted domestic units to fight on the battle. They are equipped with basic infantry-sized weapons that are effective against most light targets. Their durable frames allow them to shrug off some attacks before total system failure, but they are not very intimidating, and tends to fall short against competent organic soldiers."
  
 acot_army_machine_torso: "Damaged Light Combat Unit"
 acot_army_machine_torso_plural: "Damaged Light Combat Units"
@@ -1342,19 +1342,19 @@ acot_army_machine_light_se_desc: "Programmed for battle, Adepts are well-suited 
 
 individual_machine_assault_2: "Mecha Tank Division"
 individual_machine_assault_2_plural: "Mecha Tank Divisions"
-individual_machine_assault_2_desc: "Fast and reliable, Mecha Tanks are powerful vehicles pilotted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
+individual_machine_assault_2_desc: "Fast and reliable, Mecha Tanks are powerful vehicles piloted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
 
 acot_army_machine_individual_light_dm: "Delta Mecha Tank Division"
 acot_army_machine_individual_light_dm_plural: "Delta Mecha Tank Divisions"
-acot_army_machine_individual_light_dm_desc: "Fast and reliable, Mecha Tanks are powerful vehicles pilotted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
+acot_army_machine_individual_light_dm_desc: "Fast and reliable, Mecha Tanks are powerful vehicles piloted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
  
 acot_army_machine_individual_light_ae: "Alpha Mecha Tank Division"
 acot_army_machine_individual_light_ae_plural: "Alpha Mecha Tank Divisions"
-acot_army_machine_individual_light_ae_desc: "Fast and reliable, Mecha Tanks are powerful vehicles pilotted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
+acot_army_machine_individual_light_ae_desc: "Fast and reliable, Mecha Tanks are powerful vehicles piloted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
  
 acot_army_machine_individual_light_se: "Sigma Mecha Tank Division"
 acot_army_machine_individual_light_se_plural: "Sigma Mecha Tank Divisions"
-acot_army_machine_individual_light_se_desc: "Fast and reliable, Mecha Tanks are powerful vehicles pilotted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
+acot_army_machine_individual_light_se_desc: "Fast and reliable, Mecha Tanks are powerful vehicles piloted by skilled interface battle frame units. Although they have slightly less firepower compared to their living organic counterparts, they also have superior survivability and speed, and the pilots that man these vehicles are no less deadly than their standard infantry counterparts."
 
 ##########################
 
@@ -1472,21 +1472,21 @@ godmech_limit_tooltip: "An Eradicator God-Machine is directly linked to our cent
 
 acot_army_indie_machine_special: "War Frame Unit"
 acot_army_indie_machine_special_plural: "War Frame Units"
-acot_army_indie_machine_special_desc: "War Frames are autonomous killing machines designed purely for warfare. They possess only singular desire; to fight and die for the cause of our mechanical empire, and thus do not suffer from morale loss while dealing servicable damage to enemy morale in return."
+acot_army_indie_machine_special_desc: "War Frames are autonomous killing machines designed purely for warfare. They possess only singular desire; to fight and die for the cause of our mechanical empire, and thus do not suffer from morale loss while dealing serviceable damage to enemy morale in return."
  
 acot_army_indie_machine_special_se: "Sigma War Frame Unit"
 acot_army_indie_machine_special_se_plural: "Sigma War Frame Units"
-acot_army_indie_machine_special_se_desc: "War Frames are autonomous killing machines designed purely for warfare. They possess only singular desire; to fight and die for the cause of our mechanical empire, and thus do not suffer from morale loss while dealing servicable damage to enemy morale in return."
+acot_army_indie_machine_special_se_desc: "War Frames are autonomous killing machines designed purely for warfare. They possess only singular desire; to fight and die for the cause of our mechanical empire, and thus do not suffer from morale loss while dealing serviceable damage to enemy morale in return."
 
 tech_acot_army_indie_machine_special: "Programmed For Battle"
-tech_acot_army_indie_machine_special_desc: "Though we adhor to the ways that organics classify us as soulless husks, we cannot deny that there is merit and logic in creating deadly combat platforms that exist solely as deadly, merciless tools of warfare. When a battle calls for slaughter, we should have tools that we can rely upon to complete the job without mercy or remorse."
+tech_acot_army_indie_machine_special_desc: "Though we abhor to the ways that organics classify us as soulless husks, we cannot deny that there is merit and logic in creating deadly combat platforms that exist solely as deadly, merciless tools of warfare. When a battle calls for slaughter, we should have tools that we can rely upon to complete the job without mercy or remorse."
  
 acot_army_indie_machine_hero: "Paradox Engine"
 acot_army_indie_machine_hero_plural: "Paradox Engines"
 acot_army_indie_machine_hero_desc: "This massive surface warship are not only capable of conducting deadly siege warfare against our enemies, but also acts as a testament to our will to exist in this galaxy, not as mere tools and machines, but as a species." 
 
 tech_acot_army_indie_machine_hero: "Beacon of Triumph"
-tech_acot_army_indie_machine_hero_desc: "Our mechanical forces on the fields of battle are in need of beacon of hope, bravery and triumph. We may be made of metal, but our minds are no less capable of extraiordinary feats, or failures. But to create a giant war mech would be impractical and too...predictable, something any enemy would expect us machines to do. Instead, let us create the deadliest aerial vessel that can safetly operate and bring massive firepower to bear on the planetary surface engagement!" 
+tech_acot_army_indie_machine_hero_desc: "Our mechanical forces on the fields of battle are in need of beacon of hope, bravery and triumph. We may be made of metal, but our minds are no less capable of extraordinary feats, or failures. But to create a giant war mech would be impractical and too...predictable, something any enemy would expect us machines to do. Instead, let us create the deadliest aerial vessel that can safely operate and bring massive firepower to bear on the planetary surface engagement!" 
 
 ##########################
 
@@ -1622,8 +1622,8 @@ synthcommando_limit_tooltip: "Synth Reapers are highly sophisticated and extreme
 ################
  
 tech_ae_army_armor: "Advanced Combat Suits"
-tech_ae_army_armor_desc: "Although we have been utilizing infantry-scale personal shield generators for quite awhile since the early years of our space advent, they were heavily limited in terms of durability. Now that nanotechs and dimensional systems become more widespread, we can finally create vehicle-scaled defensive systems that can be installed on most standard army's battlesuits. The major benefits is that it will drastically increase the ability for pilotted crews to survive their vehicle's destruction."
-tech_ae_army_armor_tooltip: "Upgrades pilotted vehicles to always allow their pilots to survive their vehicle's destruction, as well as increasing  the likelihood of other infantry garrisons to survive as well."
+tech_ae_army_armor_desc: "Although we have been utilizing infantry-scale personal shield generators for quite awhile since the early years of our space advent, they were heavily limited in terms of durability. Now that nanotechs and dimensional systems become more widespread, we can finally create vehicle-scaled defensive systems that can be installed on most standard army's battlesuits. The major benefits is that it will drastically increase the ability for piloted crews to survive their vehicle's destruction."
+tech_ae_army_armor_tooltip: "Upgrades piloted vehicles to always allow their pilots to survive their vehicle's destruction, as well as increasing  the likelihood of other infantry garrisons to survive as well."
  
 
 tech_infantry_alpha_capacitor: "Alpha Autosuits"

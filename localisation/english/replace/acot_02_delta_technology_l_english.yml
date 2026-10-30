@@ -16,7 +16,7 @@ mod_weapon_role_point_defense_weapon_damage_mult: "Point Defense Weapon Damage"
 
 ACOT_DARK_MATTER_REACTOR_DM_TOOLTIP: "Grants §G50%§! shield and armor nullification resistance against Pulsar Stars, Space Storms and Toxoid Star's negative effects."
 ACOT_DARK_MATTER_THRUSTERS_DM_TOOLTIP: "Grants §G50%§! speed reduction resistance against Neutron Stas's negative effects."
-ACOT_DARK_MATTER_FTL_DM_TOOLTIP: "Grants §G50%§! resistance against Black Hole's negative effectss."
+ACOT_DARK_MATTER_FTL_DM_TOOLTIP: "Grants §G50%§! resistance against Black Hole's negative effects."
 
 ACOT_DARK_MATTER_REACTOR_AE_TOOLTIP: "Grants §G100%§! shield and armor nullification resistance against Pulsar Stars, Toxoid Star and all types of Space Storm's negative effects.\n\nGrants §G10%§! Fire Rate and Damage Bonus when operating in a system with a Black Hole or Void Stars."
 ACOT_DARK_MATTER_THRUSTERS_AE_TOOLTIP: "Grants §G100%§! speed reduction resistance against Neutron Star's negative effects."
@@ -75,16 +75,16 @@ CARRIER_AVOID_BEHAVIR_DESC: "§HEvasive Carrier:§! This ship will face itself f
 ################################################ DEFAULT #
  
 BASE_DM_REACTOR: "Modified Zero-Point Reactor"
-BASE_DM_REACTOR_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+BASE_DM_REACTOR_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resource shortage."
  
 BASE_DM_REACTOR_SMALL: "Modified Zero-Point Reactor"
-BASE_DM_REACTOR_SMALL_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+BASE_DM_REACTOR_SMALL_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resource shortage."
  
 BASE_DM_REACTOR_MEDIUM: "Modified Zero-Point Reactor"
-BASE_DM_REACTOR_MEDIUM_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+BASE_DM_REACTOR_MEDIUM_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resource shortage."
  
 BASE_DM_REACTOR_LARGE: "Modified Zero-Point Reactor"
-BASE_DM_REACTOR_LARGE_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resouce shortage."
+BASE_DM_REACTOR_LARGE_DESC: "A modified variant of Zero-Point Reactor for Precursor Ships meant to be used in times of resource shortage."
  
 BASE_DM_COMPUTER: "Basic Delphic Combat Computer"
 BASE_DM_COMPUTER_DESC: "First-generation advanced computer. capable of basic combat calculations."
@@ -390,19 +390,19 @@ tech_swarmer_missile_dm: "Delta Swarmer Missiles"
 tech_swarmer_missile_dm_desc: "Delta Swarmer Missiles are guided with limited bionic link allowing it to achieve higher speed, velocity and can perform basic evasive maneuvers, making them extremely difficult to shoot down."
 
 ACOT_CCM_PD_DM: "Delta CMM"
-ACOT_CCM_PD_DM_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_PD_DM_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 SMALL_ACOT_CCM_DM: "Delta CMM"
 MEDIUM_ACOT_CCM_DM: "Delta CMM"
 ACOT_CCM_DM: "Delta CMM"
-ACOT_CCM_DM_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_DM_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 SMALL_ACOT_CCM_MUTATION_DM: "Delta CMM"
 MEDIUM_ACOT_CCM_MUTATION_DM: "Delta CMM"
 LARGE_ACOT_CCM_MUTATION_DM: "Delta CMM"
 XL_ACOT_CCM_MUTATION_DM: "Delta CMM"
 ACOT_CCM_MUTATION_DM: "Delta CMM"
-ACOT_CCM_MUTATION_DM_DESC: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
+ACOT_CCM_MUTATION_DM_DESC: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower."
 tech_ccm_dm: "Delta CMM"
-tech_ccm_dm_desc: "CMM sytems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower." 
+tech_ccm_dm_desc: "CMM systems fire high-speed precision missiles to destroy incoming projectiles and strikecrafts. They are slower to fire than traditional point defenses but have superior range and firepower." 
 
 ACOT_MISSILE_BARRAGE_DM: "Delta MMLS"
 ACOT_MISSILE_BARRAGE_DM_DESC: "Deadly long-range rocket systems launched from a quad-launcher that sacrifices tracking capabilities for increased firepower."
@@ -427,7 +427,7 @@ tech_xl_missile_dm: "Delta HSPM"
 tech_xl_missile_dm_desc: "Our fleet commanders will certainly be delighted that they now have a much more improved spinal-based explosive weapon as an option, one that is more reliable than the original design."
  
 ACOT_MISSILE_NUKE_DM: "Delta Giga-Warhead Launcher"
-ACOT_MISSILE_NUKE_DM_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out captial ships."
+ACOT_MISSILE_NUKE_DM_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out capital ships."
 acot_titan_missile_dm_tt: "Deals §Y4,942 - 8,087§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_dm: "Delta Giga Warheads"
 tech_missile_nuke_dm_desc: "With the advanced materials and combustion reactions from recent technologies that have been developed along Delta Projects, we are able to solve many issues that plague the old Giga Warheads. Superior materials, higher firepowers, top speed increase. The list goes on."
@@ -522,7 +522,7 @@ ACOT_GUNSHIP_HANGAR_MUTATION_DM_DESC: "Gunships are specialized strikecrafts tha
 tech_strike_craft_scout_dm: "Delta Interceptors"
 tech_strike_craft_scout_dm_desc: "Although the current fighters are well-suited for both screening and ship harassment. The records we studied shows a good case to be made for dedicated dog-fighters that not only ace against enemy strike crafts, but also function as point-defenses, targeting enemy missiles and protect their motherships."
 tech_strike_craft_fighter_dm: "Delta Fighters"
-tech_strike_craft_fighter_dm_desc: "Based upon the precursor blueprints, it is discovered that at a certain point in time, a mysterious galactic power called Perseus Intercorp has deliberately removed various blueprints and strategem regarding strike craft deployment. This caused a major change resulting in most following civilizations to somehow forget many other kind of strikecrafts such as interceptors and bombers. Our strategist's face turn pale; Why had we ignore such an obvious thing? It is like the way we decided to create an entirely new type of corvette that looks the same, except it fires missiles and then we call it frigates.\n\nRegardless, this error should be rectified. Strike Crafts now appear in various designs, from interceptors which are designed to hunt down other strike crafts and provide screening against missiles, to bombers which acts as dedicated anti-ship surgical striker, to fighters which are a hybrid of both. May our brains never be melted, and the questionable actions of the Persues Intercorp never be forgotten."
+tech_strike_craft_fighter_dm_desc: "Based upon the precursor blueprints, it is discovered that at a certain point in time, a mysterious galactic power called Perseus Intercorp has deliberately removed various blueprints and stratagem regarding strike craft deployment. This caused a major change resulting in most following civilizations to somehow forget many other kind of strikecrafts such as interceptors and bombers. Our strategist's face turn pale; Why had we ignore such an obvious thing? It is like the way we decided to create an entirely new type of corvette that looks the same, except it fires missiles and then we call it frigates.\n\nRegardless, this error should be rectified. Strike Crafts now appear in various designs, from interceptors which are designed to hunt down other strike crafts and provide screening against missiles, to bombers which acts as dedicated anti-ship surgical striker, to fighters which are a hybrid of both. May our brains never be melted, and the questionable actions of the Persues Intercorp never be forgotten."
 tech_strike_craft_bomber_dm: "Delta Bombers"
 tech_strike_craft_bomber_dm_desc: "Bombers are another new branching design that looks promising. They perform accurate surgical strike against enemy ships with their explosive payloads that pack quite a punch for a ship of its size. Bombers should provide a more attractive options when the enemy has no strike crafts to harass them."
 tech_strike_craft_gunship_dm: "Delta Gunships"
@@ -626,7 +626,7 @@ ACOT_ENIGMATIC_DRIVE_DM_DESC: "This enigmatic Jump Drive uses dark energy to pha
 ACOT_ENIGMATIC_DRIVE_MUTATION_DM: "Delta Translocator Drive"
 ACOT_ENIGMATIC_DRIVE_MUTATION_DM_DESC: "This enigmatic Jump Drive uses dark energy to phase the ship towards new space, allowing the ship to jump farther than conventional jump drive. The process does not rely on traditional dimensional rifts, making it safer than the old Jump Drive."
 tech_enigmatic_drive_dm: "Space Translocation"
-tech_enigmatic_drive_dm_desc: "Traditional Jump Drives are based on the principles and configurations of Zero-Point Energy, which has the possibility of creating unforseen dimensional cascades. However, it is possible to develop a new FTL techniques that utilizes Dark Energy to basically rewrite the ship into a new location in space."
+tech_enigmatic_drive_dm_desc: "Traditional Jump Drives are based on the principles and configurations of Zero-Point Energy, which has the possibility of creating unforeseen dimensional cascades. However, it is possible to develop a new FTL techniques that utilizes Dark Energy to basically rewrite the ship into a new location in space."
 TECH_UNLOCK_ENIG_DRIVE_DM: "§HUnlocks Component:§! Translocator Drive"
 TECH_UNLOCK_ENIG_DRIVE_DM_DESC: "§HTranslocating Techniques§!\nThis new FTL technology allows ship to use jumping techniques without risking dimensional anomalies, so long as traditional jump drives have not already been utilized."
  
@@ -661,12 +661,12 @@ TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_DM_TITLE: "§HUnlocks Components:§! $AC
 TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_DM_DESC: "$ACOT_REPAIR_COUNTERMEASURES_DM_DESC$"
  
 ACOT_REACTOR_BOOSTER_DM: "Delta Auxiliary Power Amplifier"
-ACOT_REACTOR_BOOSTER_DM_DESC: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module implifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
+ACOT_REACTOR_BOOSTER_DM_DESC: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module amplifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
 ACOT_REACTOR_BOOSTER_AURA_DM: "Delta Supra Amplifier"
 ACOT_REACTOR_BOOSTER_AURA_DM_DESC: "In place of a typical aura component, the ship can make use of the space to install additional APA at no costs for extra power supply."
 friendly_acot_reactor_booster_aura: "Delta Sentry Network"
 tech_darkmatter_reactor_booster_dm: "Dark Energy Auxiliary Power Amplifier"
-tech_darkmatter_reactor_booster_dm_desc: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module implifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
+tech_darkmatter_reactor_booster_dm_desc: "Dark Energy APA provides additional backup power in case the main reactor is not sufficiently powerful enough. Furthermore, the module amplifies shield regeneration capability if present, as well as boosting ship's overall performance by a small margin."
  
 ACOT_SHIELD_BOOSTER_DM: "Delta Supercharged Shields"
 ACOT_SHIELD_BOOSTER_DM_DESC: "Supercharging Shields grant the ship's shield generators increased potency at the cost of power consumption. It also provides hardening effect to the shield."
@@ -679,12 +679,12 @@ TECH_UNLOCK_ACOT_SHIELD_BOOSTER_DM_TITLE: "§HUnlocks Components:§! $ACOT_SHIEL
 TECH_UNLOCK_ACOT_SHIELD_BOOSTER_DM_DESC: "$ACOT_SHIELD_BOOSTER_DM_DESC$"
  
 ACOT_ARMOR_BOOSTER_DM: "Delta Enhanced Kinetic Barriers"
-ACOT_ARMOR_BOOSTER_DM_DESC: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+ACOT_ARMOR_BOOSTER_DM_DESC: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absorption ability as well as providing hardening effects."
 ACOT_ARMOR_BOOSTER_AURA_DM: "Delta Kinetic Barrier Swarm"
 ACOT_ARMOR_BOOSTER_AURA_DM_DESC: "Specialized variant of the Kinetic Barrier Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
 friendly_acot_armor_booster_aura: "Delta Kinetic Barrier Swarm"
 tech_darkmatter_armor_supercharger_dm: "Delta Enhanced Kinetic Barriers"
-tech_darkmatter_armor_supercharger_dm_desc: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absortion ability as well as providing hardening effects."
+tech_darkmatter_armor_supercharger_dm_desc: "Enhanced Kinetic Barriers improve ship's armor and its kinetic absorption ability as well as providing hardening effects."
 TECH_UNLOCK_ACOT_ARMOR_BOOSTER_DM_TITLE: "§HUnlocks Components:§! $ACOT_ARMOR_BOOSTER_DM$"
 TECH_UNLOCK_ACOT_ARMOR_BOOSTER_DM_DESC: "$ACOT_ARMOR_BOOSTER_DM_DESC$"
   
@@ -701,7 +701,7 @@ tech_darkmatter_star_charter_dm_desc: "A special auxiliary chamber containing mu
 ACOT_WEAPON_EXPLOSIVE_CORE_DM: "High-Explosive Missile Payloads"
 ACOT_WEAPON_EXPLOSIVE_CORE_DM_DESC: "All standard-issued missile weapon systems can be enhanced with a dedicated auxiliary system to further improve their firepower."
 tech_missile_core_dm: "Dark Combustions"
-tech_missile_core_dm_desc: "The method that is used to extract Dark Energy through Dark Matter is discovered to be reversible, with a rather explosive results. When operated in safe environments, this is hardly an issue. But with this intriguing reaction in mind, it may yet be possible to develop a new kind of explosive ordinances. In the contained state, the ordiances will also benefit from increased dimensional space, suitable for making more durable and faster missiles."
+tech_missile_core_dm_desc: "The method that is used to extract Dark Energy through Dark Matter is discovered to be reversible, with a rather explosive results. When operated in safe environments, this is hardly an issue. But with this intriguing reaction in mind, it may yet be possible to develop a new kind of explosive ordinances. In the contained state, the ordnance will also benefit from increased dimensional space, suitable for making more durable and faster missiles."
  
 ACOT_WEAPON_KINETIC_CORE_DM: "Hard-light Kinetic Payload"
 ACOT_WEAPON_KINETIC_CORE_DM_DESC: "A complicated micro-factory that quickly generates hard-light munitions that are both stronger and faster."
@@ -721,11 +721,11 @@ tech_fighter_core_dm_desc: "With the advanced technology and virtual control int
 ##############################
 
 ACOT_CLOAKING_LIGHT_DM_TOOLTIP: "§ELight Stealth Generator has no shield penalty while engaged but offers limited cloaking capability.§!\n\n"
-ACOT_CLOAKING_HEAVY_DM_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifer auxiliary components of at least Delta Tier are equipped.§!\n\n"
+ACOT_CLOAKING_HEAVY_DM_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ can be reduced by half if any shield amplifier auxiliary components of at least Delta Tier are equipped.§!\n\n"
 ACOT_CLOAKING_DIMENSIONAL_TOOLTIP: "§EDimensional Phase Generator phases the ship outside of physical space, completely removing their presence from almost any type of detection. But while phasing, the ship enters an intangible state where mundane armor has no effect and their hull more fragile. This state will persist for 90 days after disengaging phase cloaking.§!\n\nArmor Nullification from cloaking: §R100%§!\nHull Reduction from cloaking: §R50%§!\nSublight Speed Reduction from cloaking: §R50%§!\n\n§EArmor Nullification from cloaking only takes effect if the ship are equipped with any mundane armor components (Tier 1-5).§!\n§EHull Reduction from cloaking can be removed if any hull amplifier auxiliary components of at least Delta Tier are equipped.§!\n\n§RAll negative malus effects will persist for 90 days after decloaking with half of its values!§!"
 
 tech_darkmatter_stealth_generator_dm: "Enigmatic Stealth Generator"
-tech_darkmatter_stealth_generator_dm_desc: "Apparently, schematics for cloaking technology using Dark Energy seems to operate quite differently from our previous apllications. The design uses the term "Stealth Generator" instead, and works by replacing the entirety of the ship's energy signature with the generator's own. There're both pros and cons to this, the new design allows even the largest ship to be cloaked with relative ease, but it also means that smaller ships will not benefit from their lower energy signatures; every ship will effectively have the same cloaking strength."
+tech_darkmatter_stealth_generator_dm_desc: "Apparently, schematics for cloaking technology using Dark Energy seems to operate quite differently from our previous applications. The design uses the term "Stealth Generator" instead, and works by replacing the entirety of the ship's energy signature with the generator's own. There're both pros and cons to this, the new design allows even the largest ship to be cloaked with relative ease, but it also means that smaller ships will not benefit from their lower energy signatures; every ship will effectively have the same cloaking strength."
 
 ACOT_CLOAKING_LIGHT_DM: "Delta Stealth Generator"
 ACOT_CLOAKING_LIGHT_DM_DESC: "Delta Stealth Generator"

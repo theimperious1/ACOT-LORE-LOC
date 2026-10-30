@@ -76,7 +76,7 @@ acot_space_whale_type_1_reanimated_plural: "Reanimated Shadow Tiyankis"
 acot_space_whale_type_1_reanimated_section_key: "Reanimated Shadow Tiyanki Body"
 
 ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_WEAPON: "Shadow Weave"
-ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_WEAPON_DESC: "Shadow Tiyanki's energy absortion glands have been modified to absorb less energy but deals greater physiscal damage on hulls and armors."
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_WEAPON_DESC: "Shadow Tiyanki's energy absorption glands have been modified to absorb less energy but deals greater physical damage on hulls and armors."
 
 ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_LASER: "Abyssal Eye Beam"
 ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_LASER_DESC: "Shadow Tiyankis are given these extra eyes to help deal with armored foes over medium range."
@@ -87,7 +87,7 @@ ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_PD_DESC: "Various parts of the Shadow Tiyanki's
 ######
 
 tech_acot_fauna_space_whale_type_2: "Dire Tiyanki Strains"
-tech_acot_fauna_space_whale_type_2_desc: "It is possible to capitalize the Tiyanki's natural cravings for gas giant's energy into a real, ravanous hunger. This new strain will turn the once mostly docile and passive whales into deadly predators, whose aggressive vertical stance has been encouraged to be its primary posture, standing tall against our enemies."
+tech_acot_fauna_space_whale_type_2_desc: "It is possible to capitalize the Tiyanki's natural cravings for gas giant's energy into a real, ravenous hunger. This new strain will turn the once mostly docile and passive whales into deadly predators, whose aggressive vertical stance has been encouraged to be its primary posture, standing tall against our enemies."
 
 acot_space_whale_type_2: "Dire Tiyanki"
 acot_space_whale_type_2_cap: "Dire Tiyanki"
@@ -139,10 +139,10 @@ ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_MELEE: "Triumphant Grasp"
 ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_MELEE_DESC: "Enemy ships should be aware that the Kaiser's deadly tentacles are strong enough to tear their hulls asunder."
 
 ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_WEAPON: "Kaiser Energy Leeches"
-ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_WEAPON_DESC: "Kaiser's Energy Absortion power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_WEAPON_DESC: "Kaiser's Energy Absorption power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
 
 ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_L_WEAPON: "Kaiser Energy Spikes"
-ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_L_WEAPON_DESC: "Kaiser's Energy Absortion power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_L_WEAPON_DESC: "Kaiser's Energy Absorption power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
 
 ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_T_WEAPON: "Royal Scorch"
 ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_T_WEAPON_DESC: "The Kaiser's head can project a deadly beam of enigmatic energies."
@@ -176,7 +176,7 @@ tech_acot_bio_mandible_ae_desc: "Rip and Tear!"
 ACOT_MANDIBLE_PE: "Neophyte Ascendant Mandibles"
 ACOT_MANDIBLE_PE_DESC: "These ancient blades, despite their young and unassuming looks, appears to be even deadlier than even those used by the primals. The exact science and properties behind this is not yet fully understood."
 tech_acot_bio_mandible_pe: "Neophyte Ascendant Mandibles"
-tech_acot_bio_mandible_pe_desc: "We lack the required genetics to form real bladed mandibles of ancient beasts, the Xharoninan archives we studied have enabled us to create one that mimics the properites of their newborns which appears to still pack qutie some serious deadliness."
+tech_acot_bio_mandible_pe_desc: "We lack the required genetics to form real bladed mandibles of ancient beasts, the Xharoninan archives we studied have enabled us to create one that mimics the properties of their newborns which appears to still pack quite some serious deadliness."
 
 ACOT_MANDIBLE_RE: "True Ascendant Mandibles"
 ACOT_MANDIBLE_RE_DESC: "These ancient mandibles mimic many of the bladed jaws and biosteel blades that existed in the Xharonian archives. Not even dimensional defenses can hold out against their attacks for long, and their range far exceed normal limits."
@@ -209,19 +209,19 @@ tech_acot_bio_healing_spore_ae_desc: "Even simple microorganisms can benefit fro
 ## CONFUSER
 
 ACOT_CONFUSER_SPORE_ENIG: "Volatile Disruption Swarms"
-ACOT_CONFUSER_SPORE_ENIG_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+ACOT_CONFUSER_SPORE_ENIG_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 tech_acot_bio_confuser_spore_enig: "Volatile Disruption Swarms"
-tech_acot_bio_confuser_spore_enig_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_enig_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 
 ACOT_CONFUSER_SPORE_DM: "Primal Disruption Swarms"
-ACOT_CONFUSER_SPORE_DM__DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+ACOT_CONFUSER_SPORE_DM__DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 tech_acot_bio_confuser_spore_dm: "Primal Primal Disruption Swarms"
-tech_acot_bio_confuser_spore_dm_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_dm_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 
 ACOT_CONFUSER_SPORE_AE: "Alpha Primal Primal Disruption Swarms"
-ACOT_CONFUSER_SPORE_AE_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+ACOT_CONFUSER_SPORE_AE_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 tech_acot_bio_confuser_spore_ae: "Alpha Primal Primal Disruption Swarms"
-tech_acot_bio_confuser_spore_ae_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_ae_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, interfering with their controls and systems."
 
 ## TRACKER
 
@@ -514,7 +514,7 @@ TECH_UNLOCK_acot_bio_titan_stage_2_CONSTRUCTION_TITLE: "§H$UNLOCKS_SHIP_TYPE$:�
 TECH_UNLOCK_acot_bio_titan_stage_2_CONSTRUCTION_DESC: "§H$acot_bio_titan_stage_2$§!\nEnhanced for superior firepower and durability."
 
 tech_acot_bio_titan_growth_2: "Advanced Conqueror Development"
-tech_acot_bio_titan_growth_2_desc: "The apex of bioship growth technology, these advanced facilities produce Conquerors of unmatched powert and wrath. Optimized genetic templates and cutting-edge incubation techniques ensure these bio-titans bring destruction and mayhem to our enemies."
+tech_acot_bio_titan_growth_2_desc: "The apex of bioship growth technology, these advanced facilities produce Conquerors of unmatched power and wrath. Optimized genetic templates and cutting-edge incubation techniques ensure these bio-titans bring destruction and mayhem to our enemies."
 TECH_UNLOCK_acot_bio_titan_stage_3_CONSTRUCTION_TITLE: "§H$UNLOCKS_SHIP_TYPE$:§! $acot_bio_titan_stage_3$"
 TECH_UNLOCK_acot_bio_titan_stage_3_CONSTRUCTION_DESC:  "§H$acot_bio_titan_stage_3$§!\nGrown for ultimate destruction, wrath, and awe."
 
