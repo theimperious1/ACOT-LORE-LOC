@@ -55,7 +55,7 @@ stellarite_events.3.desc.a: "It is done! As per SOPHIA's instructions, we have s
 stellarite_events.3.desc.b: "It is done! As per SOPHIA's instructions, we have successfully learned how to convert Dark Energy into Stellarite, now we can begin developing a new generation of reactor that is designed specifically to harness it."
 stellarite_events.3.desc.stellaritegate: "The records within the Gate heavily suggest the existence of Stellarite Power, which proves that this power did exist in the past. But we do not yet have a working prototype that can be used for military applications. We must dig deeper."
 stellarite_events.3.a: "Settings our goal high."
-stellarite_events.3.tooltip: "Stellarite Research is now availiable. But be careful, in a few years, other empires will only need to study the technology to be able to acquire it as well.\n\nThe Phanon Corps will not take kindly to our rising power as well, if they are still around."
+stellarite_events.3.tooltip: "Stellarite Research is now available. But be careful, in a few years, other empires will only need to study the technology to be able to acquire it as well.\n\nThe Phanon Corps will not take kindly to our rising power as well, if they are still around."
 
 RESEARCH_STELLARITE_POWER_SIMPLE: "Power Beyond Stars"
 RESEARCH_STELLARITE_POWER_SIMPLE_DESC: "This new Stellarite Power holds so much promise, we only need to study them.\n\n§RCompleting this project will allow us to research Stellarite-based Reactor. Researching this technology may upset certain superpowers that prefer to maintain the status quo.§!"

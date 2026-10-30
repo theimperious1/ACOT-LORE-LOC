@@ -76,7 +76,7 @@ acot_precursor_databank.1.desc: "Warning!! Unauthorized Databank Access Detected
 acot_precursor_databank.1.a: "What is this? We demand access!"
 acot_precursor_databank.1.a.response: "Again, only govermental body officially designated by the Ancient Council of Technology may access the databank. You do not have this access, this security system does not answer to you. Locate a Databank Personality or cease any unauthorized activity, the Cache cannot fall into the hands of unauthorized civilizations."
 acot_precursor_databank.1.b: "What's going on again?"
-acot_precursor_databank.1.b.response: "The System is unable to locate neither supervisors, or access the Archive to filter and locate eligible Databank Personality. Unfiltered Mode is necessary to faciliate broader scanning and identify any availiable DBPs to confirm authorization."
+acot_precursor_databank.1.b.response: "The System is unable to locate neither supervisors, or access the Archive to filter and locate eligible Databank Personality. Unfiltered Mode is necessary to faciliate broader scanning and identify any available DBPs to confirm authorization."
 acot_precursor_databank.1.c: "What is this Ancient Council?"
 acot_precursor_databank.1.c.response: "You do not have the authorization required to know about them. Information provided will be limited. They are the organization that designs and maintains databank archives, access points and personalities. System cannot locate any Council supervisor in this galaxy."
 acot_precursor_databank.1.d: "Yes. Locate the personality."
@@ -314,11 +314,11 @@ acot_precursor_databank.405.c.response: "Thus concludes our historical lesson!"
 ### PRECURSOR STUFFS 
 
 acot_precursor_databank.5.name: "Precursor Databank"
-acot_precursor_databank.5.desc: "Precursors, precursors. I still find it quite weird that even without the Cache, your galaxy manage to create a very convicing replica of the original. Guess that's the ancient designs for ya. What do you want to know?\n\n\n\nWe currently have §Y[This.$owned_enigmalith_count$]§! Enigmaliths availiable."
+acot_precursor_databank.5.desc: "Precursors, precursors. I still find it quite weird that even without the Cache, your galaxy manage to create a very convicing replica of the original. Guess that's the ancient designs for ya. What do you want to know?\n\n\n\nWe currently have §Y[This.$owned_enigmalith_count$]§! Enigmaliths available."
 
 owned_enigmalith_count: "acot_enigmalith_counter"
 
-acot_enigmalith_counter: "Availiable Enigmaliths"
+acot_enigmalith_counter: "Available Enigmaliths"
 
 acot_precursor_databank.5.nodata: "§H???§!"
 acot_precursor_databank.5.nodata.escort: "Destroyers?"
@@ -380,7 +380,7 @@ acot_precursor_databank.507.desc: "§BPrecursor Oracle§! Advanced armed explora
 acot_precursor_databank.508.desc: "§BPrecursor Initializer§! Establishing new fortifications in the past require not only powerful construction systems, but also one that can do it quickly and defend against small harassments. Sometimes its even a valid strategy to send in these ships into combat and construct quick disposable turrets to increase the odds."
 acot_precursor_databank.509.desc: "§BPrecursor Emissary§! Another technology lost to time and age. The Emissaries perform all kinds of roles related to planetary colonization and manipulation. It's probably much more useful in your galaxy, seeing as how you seem to be wholly reliant on planet-bound economy over maximizing space efficiency. But SOPHIA won't judge!"
 acot_precursor_databank.510.desc: "§BPrecursor Citadel§! Starbases like these are staple ways of maintaining proper territorial control in space. More so in the past when there are no real boundaries between systems. Any space that the starbase's weapon system are not in range were effectively considered free for the taking. The establishment of hyperlane routes and solar systems may have, oddly and unintentionally enough, become a necessary limitation."
-acot_precursor_databank.511.desc: "§BPrecursor Enigmalith§! Enigmaliths are perhaps one of the few designs that the Fallen Ones, even in your sad galaxy, did not dare to dumb down or alter. Well, apart from harvesting the unnecessary dark matter that is.\n\n\n\nWe currently have §Y[This.$owned_enigmalith_count$]§! Enigmaliths availiable."
+acot_precursor_databank.511.desc: "§BPrecursor Enigmalith§! Enigmaliths are perhaps one of the few designs that the Fallen Ones, even in your sad galaxy, did not dare to dumb down or alter. Well, apart from harvesting the unnecessary dark matter that is.\n\n\n\nWe currently have §Y[This.$owned_enigmalith_count$]§! Enigmaliths available."
 acot_precursor_databank.512.desc: "§BPrecursor Herculean§! So much to talk about this marvel. Honestly, I am amazed you succeed in getting one built, given the lack of knowledge and technology."
 acot_precursor_databank.513.desc: "§BPrecursor Celestial Forger§! With the wanton destruction dished out on a regular basis by everyone, it's logical to have the means to actually undo all the screwed up stuffs, don't you agree?"
 acot_precursor_databank.514.desc: "§BPrecursor Orbital Ring§! Sometimes planet-bound defenses and system starbases are just not enough. A plaentary orbital ring are often built to give the planet extra layer of defenses."

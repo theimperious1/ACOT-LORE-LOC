@@ -2030,13 +2030,13 @@ tech_precursor_enigmalith: "Enigmalith Replication"
 tech_precursor_enigmalith_desc: "Now that we understand the basic principle behind precursor architecture, we can begin replicating our very own enigmalith."
 TECH_UNLOCK_ENIGMALITH_TITLE: "§HUnlocks Megastructure:§! Ancient Enigmalith"
 TECH_UNLOCK_ENIGMALITH_DESC: "$acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS$"
-tech_precursor_enigmalith_effect: "Grants §Y3§! Enigmalith Charges.\n\nEnigmalith Charges are spent to create new Enigmaliths. You can check availiable charges from the Precursor Databank Menu in the Enigmalith Tabs."
+tech_precursor_enigmalith_effect: "Grants §Y3§! Enigmalith Charges.\n\nEnigmalith Charges are spent to create new Enigmaliths. You can check available charges from the Precursor Databank Menu in the Enigmalith Tabs."
 
 tech_precursor_enigmalith_regain: "Enigmalith Realignment"
 tech_precursor_enigmalith_regain_desc: "If not properly attuned and refined, Engmaliths can be quite harmful to the physical plane itself with its powerful enigmatic channeling power. As such, each new Enigmalith must be carefully prepared by the experts so that they remain in sync and safe to operate."
 tech_precursor_enigmalith_regain_effect: "Gains §Y1§! Enigmalith Charges.\n\nEnigmalith Charges are spent to create more Enigmaliths. If the empire has more than §Y5§! charges, this technology will not appear, but you can still gain more by dismantling existing Enigmaliths."
 
-tech_precursor_enigmalith_recurring_effect: "Grants §Y1§! Enigmalith Charges.\n\nEnigmalith Charges are spent to create new Enigmaliths. You can check availiable charges from the Precursor Databank Menu in the Enigmalith Tabs."
+tech_precursor_enigmalith_recurring_effect: "Grants §Y1§! Enigmalith Charges.\n\nEnigmalith Charges are spent to create new Enigmaliths. You can check available charges from the Precursor Databank Menu in the Enigmalith Tabs."
 ################
 
 acot_dark_matter_obelisk_core_portal_ae: "Enigmalith Aetena Assembly Portal"

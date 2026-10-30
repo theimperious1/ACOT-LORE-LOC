@@ -81,8 +81,8 @@ acot_pmc.1.back: "Actually, we want to talk about something else."
 acot_pmc.2.a: "We require your commission services."
 acot_pmc.2.a.explain: "This will open up commission services. Commission Services are Phanon-Supported Internal Management that utilizes our empire's own resources and technologies. By using Phanon's vast network intelligences and highly advanced industry, they may be able to find capable leaders from our empires much more efficiently or build fleets and armies from our own designs.\n\nCommision Services uses £energy£ and £influence£ to buy."
 acot_pmc.2.b: "We require your mercenary services."
-acot_pmc.2.b.explain: "This will open up mercenary contract service, where you can obtain and see the list of all currently availiable mercenaries."
-acot_pmc.2.b.fail_text: "There are no availiable mercenaries left at this time."
+acot_pmc.2.b.explain: "This will open up mercenary contract service, where you can obtain and see the list of all currently available mercenaries."
+acot_pmc.2.b.fail_text: "There are no available mercenaries left at this time."
 acot_pmc.2.c: "We require your special services."
 acot_pmc.2.c.explain: "This will open up special services that do not fall under standard commissions. Usually related to sabotages or special situations."
 acot_pmc.2.d: "Access Phanon Ultra Services."
@@ -159,7 +159,7 @@ acot_pmc.30.d: "Find us a good offficial."
 acot_pmc.30.b.response: "Affirmative, a commander displaying the required skillsets has been dispatched.."
 acot_pmc.30.c.response: "Confirmed, securing the location of the scientist fitting your description now."
 acot_pmc.30.d.response: "Acknoweledged. An offficial fitting your description has been tracked."
-acot_pmc.30.no.response: "Unfortunately, there are no leaders availiable for hire on this role for now."
+acot_pmc.30.no.response: "Unfortunately, there are no leaders available for hire on this role for now."
 
 ########################## FLEET COMMISSION
 
@@ -319,7 +319,7 @@ acot_phanon_tech_buy_penalty_3_desc: "Many find the prospect of invention and re
 ########################## MERCENARY SERVICE MENU #############
 
 acot_pmc.4.name: "Phanon Corps Mercenary Service"
-acot_pmc.4.desc.a: "Acknowledged, transferring channel to Mercenary Service now.\n\nDisplaying availiable mercenary contracts. Please inspect and verify.\n\n§BBlue Names§! = Fleet Mercenary\n§GGreen Names§! = Army Mercenary\n§MPurple Names§! = Rare Mercenary\n§YYellow Names§! = Legendary Mercenary\n\n\n§HMercenary Rosters are refreshed every five years.\nA total of five mercenaries can exist at any time, random existing mercenaries will be replaced if this limit exceeds.§!"
+acot_pmc.4.desc.a: "Acknowledged, transferring channel to Mercenary Service now.\n\nDisplaying available mercenary contracts. Please inspect and verify.\n\n§BBlue Names§! = Fleet Mercenary\n§GGreen Names§! = Army Mercenary\n§MPurple Names§! = Rare Mercenary\n§YYellow Names§! = Legendary Mercenary\n\n\n§HMercenary Rosters are refreshed every five years.\nA total of five mercenaries can exist at any time, random existing mercenaries will be replaced if this limit exceeds.§!"
 acot_pmc.4.setlocation.phanon: "Shipping Location: §RPhanon System§!"
 acot_pmc.4.setlocation.capital: "Shipping Location: §YCapital System§!"
 acot_pmc.4.setlocation.explain: "Change the location in which the commissioned mercenaries will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will require extra influence and energy costs.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
@@ -454,7 +454,7 @@ acot_pmc.6.desc: "Welcome to Ultra Services, it is here where VIP Customers can 
 acot_pmc.6.a: "We'd like to purchase Phanon Corps Armies."
 acot_pmc.6.b: "We'd like to purchase Phanon Corps Ships."
 acot_pmc.6.c: "We'd like to purchase Phanon Corps Technologies."
-acot_pmc.6.c.response: "We are sorry to inform you that due to recent security concerns, this service is not availiable."
+acot_pmc.6.c.response: "We are sorry to inform you that due to recent security concerns, this service is not available."
 acot_pmc.6.c.response.goodgirl: "Scanning for missing core technology. Complete, tramissing data now. Please enjoy."
 acot_pmc.6.d: "We'd like to purchase Phanon Corps Special Powers."
 acot_pmc.6.e: "We'd like to earn Phanon Coins."
@@ -554,7 +554,7 @@ acot_shadow_dance_protocol_ambush_buff: "Shadow Dance Ambush!"
 ###########
 
 acot_pmc.603.name: "Phanon Corps Macotransaction Service"
-acot_pmc.603.desc: "Greetings. Welcome to the Phanon Corps's Macrotransaction Service. From here, you may choose from currently avaliable methods of earning Phanon Coins. If there is methods availiable, please come back again later.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account.\n\n§EPlease note that not all acquisition services are availiable at the same time.§!"
+acot_pmc.603.desc: "Greetings. Welcome to the Phanon Corps's Macrotransaction Service. From here, you may choose from currently available methods of earning Phanon Coins. If there is methods available, please come back again later.\n\nYou currently have §Y[This.$owned_phanon_coin$]§! Phanon Coin in your account.\n\n§EPlease note that not all acquisition services are available at the same time.§!"
 
 acot_pmc.603.task_exist.fail: "§RAlready undergoing task nubnab!§!"
 
@@ -910,7 +910,7 @@ acot_pmc.1003.desc.c: "It appears that the [event_target:acot_phanon_non_spook_c
 acot_pmc.1003.a: "How exactly did you manage to stop the Star Traveller?"
 acot_pmc.1003.a.response: "Believe us, this wouldn't have been possible without your contributions, but as we have said. This will not last, if you wish to secure the ship, you need to send a science ship there and hack it."
 acot_pmc.1003.b: "How strong is the Vault's defenses?"
-acot_pmc.1003.b.response: "Formidible would be an understatement. Because the enemy agent is hiding there, all of their availiable units will likely gather up at the most fortified position. You must assemble the biggest and most formidable invasion force as you can muster and take the garrison down. Remember to use the forces we will provide, they are standing ready at the Drop Point itself.\n\nOh, and be aware that while the Vault has built-in self repair mechanisms, it may not be enough to stop damage coming from more powerful weapons, so try to avoid using armies with...you know...lots of collateral damages."
+acot_pmc.1003.b.response: "Formidible would be an understatement. Because the enemy agent is hiding there, all of their available units will likely gather up at the most fortified position. You must assemble the biggest and most formidable invasion force as you can muster and take the garrison down. Remember to use the forces we will provide, they are standing ready at the Drop Point itself.\n\nOh, and be aware that while the Vault has built-in self repair mechanisms, it may not be enough to stop damage coming from more powerful weapons, so try to avoid using armies with...you know...lots of collateral damages."
 acot_pmc.1003.c: "Right, let's get to it then."
 acot_pmc.1003.c.response: "Good luck down there. Do not underestimate our foes."
 acot_pmc.1003.d: "Now that's an idea...thanks for the money though."
@@ -954,9 +954,9 @@ acot_pmc.11.desc.a: "Our initial invasion of the Corps's Vault has been successf
 acot_pmc.11.desc.b: "Our initial invasion of the Corps's Vault has been successful. The rest of their defense forces, along with the agent's operative bodyguards have prepared a fortified position deep further inside. This is their last line of defense.\n\nOur mutual friend has provided us with yet another wave of reinforcements, but they may not be enough. We must carry our earn weight as well." 
 acot_pmc.11.desc.c: "Once again we are able to regain control of the Vault and the enemy have retreated. There're no traces of survivors from our people or even any of our infrastructues, the Corps made sure to clean it all up. If we want to prevent this from happening again, the Vault must remains secured at all time." 
 acot_pmc.11.a: "We have them trapped, they're not getting anywhere."
-acot_pmc.11.a.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be availiable."
+acot_pmc.11.a.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be available."
 acot_pmc.11.b: "Let's drive them out."
-acot_pmc.11.b.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be availiable.\n\nAddition army reinforcements have been provided by the Rival Phanon Corps Agent."
+acot_pmc.11.b.tooltip: "Once we are ready, assault into the Vault's infinite corridors through the planetary decision which should now be available.\n\nAddition army reinforcements have been provided by the Rival Phanon Corps Agent."
 acot_pmc.11.c: "Let's not make a habit of this."
 
 acot_pmc.12.title: "Vault Outer Corridors Assault"

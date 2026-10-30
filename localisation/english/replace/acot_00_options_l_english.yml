@@ -291,7 +291,7 @@ acot_arsenal_menu.1.desc: "The weapon reearch division is pleased to report thei
 acot_arsenal_menu.1.a: "Very well, let's have a review."
 acot_arsenal_menu.1.a.tooltip: "Open up the Options menu to review our weapon research options in case we wish to narrow down the scope of weapons we are interested in."
 acot_arsenal_menu.1.b: "Not interested."
-acot_arsenal_menu.1.b.tooltip: "By default, all weapon types will be availiable for research. You can review them again later in the Edicts tab."
+acot_arsenal_menu.1.b.tooltip: "By default, all weapon types will be available for research. You can review them again later in the Edicts tab."
 
 acot_arsenal_menu.2.name: "Arsenal Development Menu"
 acot_arsenal_menu.2.desc.a: "There are many kinds of weapons, each capable of answering to specific threats. Some better than the others."

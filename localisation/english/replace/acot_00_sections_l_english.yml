@@ -527,7 +527,7 @@ tech_acot_platform_resource_section_5: "Replicant Resource Platforms"
 tech_acot_platform_resource_section_5_desc: "To think that some empires actually died because they relied solely on planetary production is quite hilarious and pathetic. Space is there, the galaxy is there. What kind of primitive, archaic thought would make them confines their economy to that which is limited?"
 
 tech_acot_platform_resource_node_3: "Advanced Resource Nodes"
-tech_acot_platform_resource_node_3_desc: "We must be more efficient. We must make use of every availiable space within the resource stations and gain maximum productivity."
+tech_acot_platform_resource_node_3_desc: "We must be more efficient. We must make use of every available space within the resource stations and gain maximum productivity."
 
 tech_acot_platform_resource_node_5: "Replicant Resource Nodes"
 tech_acot_platform_resource_node_5_desc: "Hard-Light technologies will allow us to create even more powerful resource nodes for our stations."
@@ -656,7 +656,7 @@ sm_acot_spaceport_module_resource_energy_desc: "A place where energy credits can
 sm_acot_spaceport_module_resource_food: "Food Stockpiles"
 sm_acot_spaceport_module_resource_food_desc: "A section dedicated to agricultural harvest in space."
 
-sm_acot_spaceport_module_resource_unity: "Space Musuem"
+sm_acot_spaceport_module_resource_unity: "Space Museum"
 sm_acot_spaceport_module_resource_unity_desc: "An archive of historical importance that reminds the people of the empire's greatness."
 
 sm_acot_spaceport_module_resource_alloys: "Orbital Fabricator"

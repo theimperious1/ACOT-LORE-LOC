@@ -101,7 +101,7 @@ mod_job_acot_workerdrone_add: "$job_acot_workerdrone$"
 
 job_acot_specialman: "Factorium Overseer"
 job_acot_specialman_plural: "Factorium Overseers"
-job_acot_specialman_desc: "Overseers of the Factoriums tend to be rather joyish individual, often speaking out in great exaggeration about the greatness of the manufacuturing works, in spite of the more advanced methods and careers availiable to the empire. Yet these colorful personality does inspire those who are stuck in the old worlds to work better for the betterment of the society."
+job_acot_specialman_desc: "Overseers of the Factoriums tend to be rather joyish individual, often speaking out in great exaggeration about the greatness of the manufacuturing works, in spite of the more advanced methods and careers available to the empire. Yet these colorful personality does inspire those who are stuck in the old worlds to work better for the betterment of the society."
 mod_job_acot_specialman_add: "$job_acot_specialman$"
  
 job_acot_specialdrone: "Factorium Beholder"

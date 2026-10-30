@@ -311,7 +311,7 @@ ACOT_VOIDSPHERE_SECTION: "Void Sphere"
 decision_voidsphere_dimension_travel: "§BDimensional Travel§!"
 decision_voidsphere_dimension_travel_desc: "Prepares a team of Dimensional Travelers to brave into the great unknown in hopes of unveiling new mysteries."
 decision_voidsphere_dimension_travel_effect: "Dimensional Travel sends a group of brave souls to traverse into the beyond to find valuable assets. The more we do this, the better our people will become at exploring, making future attempts easier...assuming they survive."
-decision_voidsphere_dimension_travel_error_no_portal: "§RNo availiable portals.§!"
+decision_voidsphere_dimension_travel_error_no_portal: "§RNo available portals.§!"
 
 
 acot_planets.9.name: "Dimensional Travel"
